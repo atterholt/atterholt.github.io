@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I am a PhD student in geophysics as Caltech working under the advisement of Zach Ross and Zhongwen Zhan. I am an observational seismologist with interests in
+I am a PhD student in geophysics at Caltech working under the advisement of Zach Ross and Zhongwen Zhan. I am an observational seismologist with interests in
 
 ## Header 2
 
