@@ -13,7 +13,7 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
 
 ## Contact
 
-Feel free to reach out at:
+Feel free to reach out:
 
 *   Email: atterholt@caltech.edu
 *   Twitter: [@jimatterholt](https://twitter.com/jimatterholt?lang=en)
