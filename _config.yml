@@ -4,3 +4,5 @@ description: Me admiring Moro Rock, Sequoia NP
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-tabs
