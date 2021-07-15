@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+### First tabs
+
+{% tabs log %}
+
+{% tab log About %}
 
 # About Me
 
@@ -26,3 +31,6 @@ Many metamorphic rocks have a so-called "fabric." This fabric exists because the
 |:--:| 
 | *Illustration of the scales of heterogeneities that may influence the anisotropy measurements in this study.* |
 
+{% endtab %}
+
+{% endtabs %}
