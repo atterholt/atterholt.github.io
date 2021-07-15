@@ -8,8 +8,8 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
 
 ## Education
 
-*   Caltech (2019-present) - PhD (in progress) Geophysics
-*   Indiana University (2015-2019) - BS Mathematics and Geological Sciences
+*   California Institute of Technology (2019-present) - PhD (in progress) Geophysics
+*   Indiana University (2015-2019) - BS Mathematics and BS Geological Sciences
 
 ## Contact
 
