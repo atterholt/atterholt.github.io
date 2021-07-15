@@ -11,5 +11,10 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
 *   California Institute of Technology (2019-present) - PhD (in progress) Geophysics
 *   Indiana University (2015-2019) - B.S. Mathematics and B.S. Geological Sciences
 
+## Contact
+
+*   Email: atterholt@caltech.edu
+*   Twitter: @jimatterholt
+
 ## Research
 
