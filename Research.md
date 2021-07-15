@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+# Research Blog
 
 _yay_
 
