@@ -6,11 +6,12 @@ layout: default
 
 Welcome! I'm an observational seismologist and PhD student at Caltech working under the advisement of Zach Ross and Zhongwen Zhan. My research incorporates techniques from applied mathematics and new instrumental tools to better characterize and understand earthquake source processes and fault zone structure.
 
-## Header 2
+# CV
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Education
+
+*   California Institute of Technology (2019-present) - PhD (in progress) Geophysics
+*   Indiana University (2015-2019) - B.S. Mathematics and B.S. Geological Sciences
 
 ### Header 3
 
