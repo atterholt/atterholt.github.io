@@ -11,11 +11,11 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
 *   California Institute of Technology (2019-present) - PhD (in progress) Geophysics
 *   Indiana University (2015-2019) - BS Mathematics and BS Geological Sciences
 
-## Appointments
+## Research Experience
 
-*   California Institute of Technology (2019-present) - Graduate Student Researcher
+*   Caltech Seismological Laboratory (2019-present) - Graduate Student Researcher
 *   United States Geological Survey (2019) - NAGT Summer Intern
-*   Indiana University (2015-2019) - STARS Undergraduate Researcher
+*   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
 *   Los Alamos National Laboratory (2017) - IRIS Summer Intern
 
 ## Contact
