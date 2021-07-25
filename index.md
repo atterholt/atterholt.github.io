@@ -13,7 +13,7 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
   Education
 </h3>
 
-*   California Institute of Technology (2019-present) - PhD (in progress) Geophysics
+*   California Institute of <span style="color:blue">Technology</span> (2019-present) - PhD (in progress) Geophysics
 *   Indiana University (2015-2019) - BS Mathematics and BS Geological Sciences
 
 <h3>
