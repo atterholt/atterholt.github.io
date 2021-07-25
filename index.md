@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2 align="center">
+<h2 align="center" style="color:SteelBlue">
   Summary
 </h2>
 
@@ -17,7 +17,7 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
   <li>Indiana University (2015-2019) - BS Mathematics and BS Geological Sciences</li>
 </ul>
     
-<h3>
+<h3 style="color:SteelBlue">
   Experience
 </h3>
 
@@ -26,7 +26,7 @@ Welcome! I'm an observational seismologist and PhD student at Caltech working un
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
 *   Los Alamos National Laboratory (2017) - IRIS Summer Intern
 
-<h3>
+<h3 style="color:SteelBlue">
   Contact
 </h3>
 
