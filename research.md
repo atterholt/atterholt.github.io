@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<h2 align="center">
+<h2 align="center" style="color:SteelBlue">
   Research Blog
 </h2>
 
 * * *
 
-<h3>
+<h3 style="color:SteelBlue">
   Robustly describing earthquake ruptures (Jul 2021)
 </h3>
 
@@ -18,7 +18,7 @@ Earthquake ruptures mostly happen deep within the Earth, and seismologists try t
 |:--:| 
 | *Representation of the second moments of the stress glut for the 2020 Mw 7.7 Caribbean Earthquake.* |
 
-<h3>
+<h3 style="color:SteelBlue">
   Sensing the fabric of rocks (Jan 2021)
 </h3>
 
