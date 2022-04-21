@@ -9,6 +9,16 @@ layout: default
 * * *
 
 <h3 style="color:SteelBlue">
+  Robustly describing earthquake ruptures (Mar 2022)
+</h3>
+
+Earthquake ruptures mostly happen deep within the Earth, and seismologists try to describe these ruptures using wiggles produced by seismometers that are usually far away and at the surface of the Earth. So, data coverage in seismology is inherently deficient, and this makes solving for rupture parameters challenging. Typically, seismologists try to infer rupture parameters using complicated optimization problems that are poorly constrained. To get more robust estimates of rupture parameters, we developed a framework to solve for so-called stress glut second moments using a fully Bayesian inverse scheme. In short, this framework can yield a low-dimensional, probabilistic description of an earthquake rupture’s spatial extent, propagation direction, and duration. We successfully test this technique on the 2019 Mw 7.1 Ridgecrest Earthquake. Check out the article [here](http://doi.org/10.1029/2021JB023780 ).
+
+| ![RBJul2021.png](/assets/img/RBJul2021.png) | 
+|:--:| 
+| *Representation of the second moments of the stress glut for the 2020 Mw 7.7 Caribbean Earthquake.* |
+
+<h3 style="color:SteelBlue">
   Exploring ground shaking variability (Dec 2021)
 </h3>
 
@@ -27,16 +37,6 @@ Distributed acoustic sensing (DAS) is an emergent technology that converts fiber
 | ![RBoct2021.png](/assets/img/RBoct2021.png) | 
 |:--:| 
 | *Examples of curvelets (affectionately called "little plane waves") in the frequency-wavenumber and spatiotemporal domains.* |
-
-<h3 style="color:SteelBlue">
-  Robustly describing earthquake ruptures (Jul 2021)
-</h3>
-
-Earthquake ruptures mostly happen deep within the Earth, and seismologists try to describe these ruptures using wiggles produced by seismometers that are usually far away and at the surface of the Earth. So, data coverage in seismology is inherently deficient, and this makes solving for rupture parameters challenging. Typically, seismologists try to infer rupture parameters using complicated optimization problems that are poorly constrained. To get more robust estimates of rupture parameters, we developed a framework to solve for so-called stress glut second moments using a fully Bayesian inverse scheme. In short, this framework can yield a low-dimensional, probabilistic description of an earthquake rupture’s spatial extent, propagation direction, and duration. We successfully test this technique on the 2020 Mw 7.7 Caribbean Earthquake. Check out the preprint [here](https://www.essoar.org/doi/10.1002/essoar.10507583.1).
-
-| ![RBJul2021.png](/assets/img/RBJul2021.png) | 
-|:--:| 
-| *Representation of the second moments of the stress glut for the 2020 Mw 7.7 Caribbean Earthquake.* |
 
 <h3 style="color:SteelBlue">
   Sensing the fabric of rocks (Jan 2021)
