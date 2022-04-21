@@ -14,9 +14,9 @@ layout: default
 
 Earthquake ruptures mostly happen deep within the Earth, and seismologists try to describe these ruptures using wiggles produced by seismometers that are usually far away and at the surface of the Earth. So, data coverage in seismology is inherently deficient, and this makes solving for rupture parameters challenging. Typically, seismologists try to infer rupture parameters using complicated optimization problems that are poorly constrained. To get more robust estimates of rupture parameters, we developed a framework to solve for so-called stress glut second moments using a fully Bayesian inverse scheme. In short, this framework can yield a low-dimensional, probabilistic description of an earthquake rupture’s spatial extent, propagation direction, and duration. We successfully test this technique on the 2019 Mw 7.1 Ridgecrest Earthquake. Check out the article [here](http://doi.org/10.1029/2021JB023780 ).
 
-| ![RBJul2021.png](/assets/img/RBJul2021.png) | 
+| ![RBJul2021.png](/assets/img/RBmar2022.jpg) | 
 |:--:| 
-| *Representation of the second moments of the stress glut for the 2020 Mw 7.7 Caribbean Earthquake.* |
+| *Representation of the second moments of the stress glut for the 2019 Mw 7.1 Ridgecrest Earthquake.* |
 
 <h3 style="color:SteelBlue">
   Exploring ground shaking variability (Dec 2021)
