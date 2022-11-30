@@ -16,7 +16,7 @@ Fault zones are structures that control where and how earthquakes happen. These 
 
 | ![RBNov2022.png](/assets/img/RBNov2022.png) | 
 |:--:| 
-| *Amplitude of the backprojected scattered wavefield on the left and comparison of these amplitude profiles to mapped faults in the area on the right.* |
+| *Amplitude of the backprojected scattered wavefield at different frequencies on the left and comparison of these amplitude profiles to mapped faults in the area on the right.* |
 
 <h3 style="color:SteelBlue">
   Robustly describing earthquake ruptures (Mar 2022)
