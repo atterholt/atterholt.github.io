@@ -14,9 +14,9 @@ layout: default
 
 Fault zones are structures that control where and how earthquakes happen. These structures span many scales, and better characterizing faults across these scales may contribute to our understanding of these important structures. Small-scale fault zones occupy an observational gap that has historically been challenging to bridge. We suggest an approach for finding and characterizing small-scale fault zones using locally scattered surface waves in the earthquake wavefield recorded by distributed acoustic sensing arrays. In this study, we migrate scattered surface waves backwards to locate their source, and we find that the locations of these scatterers are correlated with mapped fault locations. We then develop a fault model and perform synthetic tests to see what we can learn about these faults. We find that by comparing our synthetics with our data, we can constrain the dimensionality of these small fault zones. Check out the full paper [here](https://doi.org/10.1029/2022JB025052). This paper pairs nicely with another paper that I’m a co-author on that uses scattered waves in the ambient noise wavefield. That paper can be found [here](https://doi.org/10.1029/2022JB024329).
 
-| ![RBJul2021.png](/assets/img/RBmar2022.jpg) | 
+| ![RBNov2022.png](/assets/img/RBNov2022.png) | 
 |:--:| 
-| *Amplitude of the backprojected scattered wavefield on the left and comparison of these profiles to mapped faults in the area on the right.* |
+| *Amplitude of the backprojected scattered wavefield on the left and comparison of these amplitude profiles to mapped faults in the area on the right.* |
 
 <h3 style="color:SteelBlue">
   Robustly describing earthquake ruptures (Mar 2022)
