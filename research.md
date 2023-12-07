@@ -14,6 +14,10 @@ layout: default
 
 Earthquake ruptures are complicated processes, and their behavior depends on encompassing structure. Characterizing this dependence is valuable, but it is challenging because it requires the systematic evaluation of rupture properties for many events. In this work, we apply a low-dimensional, Bayesian rupture inversion framework to every large strike-slip earthquake of the past three decades. This technique allows us to obtain objective, probabilistic characterizations of all these sources, so that we can confidently identify patterns in rupture behavior with structure. We make several interesting observations, including observations about the directivity of ruptures, the rheology of faults that host large oceanic earthquakes, and the sources of weakness in the oceanic crust that allow for large ruptures in the interior of oceanic plates. Check out the paper [here](https://doi.org/10.1093/gji/ggad459).
 
+| ![Params_FIG.png](/assets/img/Params_FIG.png) | 
+|:--:| 
+| *Distributions of source quantities computed in this study organized by tectonic region.* |
+
 <h3 style="color:SteelBlue">
   Finding and describing little faults (November 2022)
 </h3>
