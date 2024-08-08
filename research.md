@@ -14,6 +14,10 @@ layout: default
 
 Earthquake ruptures happen within fault zones. The structure of fault zones and the physics of earthquakes are thus necessarily intertwined. The structure of fault zones at depth, where large earthquakes typically happen, is difficult to image because fault zones are narrow and seismic imaging resolution degrades with depth. Dense seismic arrays deployed across faults can help resolve important properties of fault zones at depth. Fiber optic seismology allows for the deployment of dense arrays across faults for long periods of time with low logistical burden. In our new study, we use a fiber-optic array that crosses the Garlock Fault, a major fault in Southern California, to explore important characteristics of the fault zone at different depths, and we notice several peculiar things. We find that there is no extensive low velocity feature at depth, which is unusual for a mature fault like the Garlock, potentially suggesting healing of the fault damage zone. Additionally, when we remove the contribution of the complicated velocity structure of the shallow crust, we recover a sharp velocity contrast across the fault which may have implications for the propagation behavior of future ruptures. Check out the study [here](https://doi.org/10.1029/2024JB028900).
 
+| ![Garlock_Schematic.png](/assets/img/Garlock_Schematic.png) | 
+|:--:| 
+| *Schematic of the Garlock Fault Zone summarizing this study's results.* |
+
 <h3 style="color:SteelBlue">
   Finding patterns in strike-slip ruptures (November 2023)
 </h3>
