@@ -9,7 +9,7 @@ layout: default
 
 Welcome! I'm an observational seismologist and incoming Mendenhall Postdoctoral Fellow at the US Geological Survey. My research incorporates techniques from applied mathematics and photonic seismology to better understand crustal structures and earthquake source processes. When I'm not looking at wiggle plots, I can be found playing with my puppy or losing at backgammon. For my complete publication record and background, please see my CV. Also, check out the software on my [Github page](https://github.com/atterholt).
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Education
 </h3>
 <ul class="a">
