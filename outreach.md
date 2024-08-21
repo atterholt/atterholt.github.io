@@ -11,3 +11,8 @@ layout: default
 <h3 style="color:SeaGreen">
   The Earthquake Fellows Program
 </h3>
+
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/yyukfXZEOFI">
+</iframe>
