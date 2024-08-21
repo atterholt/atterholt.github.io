@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<h2 align="center" style="color:SteelBlue">
+<h2 align="center" style="color:SeaGreen">
   Research Blog
 </h2>
 
 * * *
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Describing the Garlock Fault Zone with a Fiber (July 2024)
 </h3>
 
@@ -18,7 +18,7 @@ Earthquake ruptures happen within fault zones. The structure of fault zones and 
 |:--:| 
 | *Schematic of the Garlock Fault Zone summarizing this study's results.* |
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Finding patterns in strike-slip ruptures (November 2023)
 </h3>
 
@@ -28,7 +28,7 @@ Earthquake ruptures are complicated processes, and their behavior depends on enc
 |:--:| 
 | *Distributions of source quantities computed in this study organized by tectonic region.* |
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Finding and describing little faults (November 2022)
 </h3>
 
@@ -38,7 +38,7 @@ Fault zones are structures that control where and how earthquakes happen. These 
 |:--:| 
 | *Amplitude of the backprojected scattered wavefield at different frequencies on the left and comparison of these amplitude profiles to mapped faults in the area on the right.* |
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Robustly describing earthquake ruptures (Mar 2022)
 </h3>
 
@@ -48,7 +48,7 @@ Earthquake ruptures mostly happen deep within the Earth, and seismologists try t
 |:--:| 
 | *Representation of the second moments of the stress glut for the 2019 Mw 7.1 Ridgecrest Earthquake.* |
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Exploring ground shaking variability (Dec 2021)
 </h3>
 
@@ -58,7 +58,7 @@ Earthquake hazards estimation is complicated and requires the consideration of n
 |:--:| 
 | *Summary image showing the velocity model and ground motion variability in the context of the 2021 Ridgecrest Earthquake sequence (from EOS article)* |
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Illuminating blurry signals (Oct 2021)
 </h3>
 
@@ -68,7 +68,7 @@ Distributed acoustic sensing (DAS) is an emergent technology that converts fiber
 |:--:| 
 | *Examples of curvelets (affectionately called "little plane waves") in the frequency-wavenumber and spatiotemporal domains.* |
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Sensing the fabric of rocks (Jan 2021)
 </h3>
 
