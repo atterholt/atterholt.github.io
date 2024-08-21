@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2 align="center" style="color:SteelBlue">
+<h2 align="center" style="color:SeaGreen">
   Summary
 </h2>
 
@@ -17,7 +17,7 @@ Welcome! I'm an observational seismologist and incoming Mendenhall Postdoctoral 
   <li>Indiana University (2015-2019) - BS Mathematics and BS Geological Sciences</li>
 </ul>
     
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Experience
 </h3>
 
@@ -27,7 +27,7 @@ Welcome! I'm an observational seismologist and incoming Mendenhall Postdoctoral 
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
 *   Los Alamos National Laboratory (2017) - IRIS Summer Intern
 
-<h3 style="color:SteelBlue">
+<h3 style="color:SeaGreen">
   Contact
 </h3>
 
