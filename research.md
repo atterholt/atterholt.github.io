@@ -26,7 +26,7 @@ The stress level near a megathrust fault is important but hard to constrain. On 
 
 | ![FerndaleFigureWeb.jpg](/assets/img/FerndaleFigureWeb.jpg) | 
 |:--:| 
-| *Comparison of stress drop estimates for earthquakes in the slab crust and mantle.* |
+| *Demonstration of lower stress drops for earthquakes in the slab crust.* |
 
 <h3 style="color:SeaGreen">
   Describing the Garlock Fault Zone with a Fiber (July 2024)
