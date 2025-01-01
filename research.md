@@ -9,6 +9,16 @@ layout: default
 * * *
 
 <h3 style="color:SeaGreen">
+  Sharp Moho Variability Illuminated with Fiber Seismology (November 2024)
+</h3>
+
+The topography of the Moho (crust-mantle boundary) can yield fundamental insights into tectonic evolution and the strength of the lithosphere. The Moho reflected phase (PmP) samples this key boundary and may be used in concert with the first arriving P phase to infer crustal thickness. The densely sampled station coverage of distributed acoustic sensing arrays allows for the observation of PmP at fine-scale intervals over many kilometers with individual events. We use PmP recorded by a 100-km-long fiber that traverses a path between Ridgecrest, CA and Barstow, CA to explore Moho variability in Southern California. With hundreds of well-recorded events, we verify that PmP is observable and develop a technique to identify and pick P-PmP differential times with high confidence. We use these observations to constrain Moho depth throughout Southern California, and we find that short-wavelength variability in crustal thickness is abundant, with sharp changes across the Garlock Fault and Coso Volcanic Field. Check out the paper in Science Advances [here](https://doi.org/10.1126/sciadv.adr3327).
+
+| ![PmPFigureWeb.png](/assets/img/PmPFigureWeb.png) | 
+|:--:| 
+| *Summary of the many PmP measurements made with our new technique.* |
+
+<h3 style="color:SeaGreen">
   Estimating Stress Near a Megathrust Fault (November 2024)
 </h3>
 
