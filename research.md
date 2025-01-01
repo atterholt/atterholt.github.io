@@ -9,6 +9,16 @@ layout: default
 * * *
 
 <h3 style="color:SeaGreen">
+  Estimating Stress Near a Megathrust Fault (November 2024)
+</h3>
+
+The stress level near a megathrust fault is important but hard to constrain. On 20 December 2022, a magnitude 6.4 strike-slip earthquake ruptured the Gorda slab in southern Cascadia. Led by Hao Guo, we relocate the aftershocks and later earthquakes using a high-resolution 3D velocity model and estimate rupture dimension and stress drop for several magnitude 4–5 aftershocks and recent earthquakes using the second moment method. Our stress-drop estimates are generally lower for earthquakes located in the slab crust compared to those a few kilometers deeper in the slab mantle. Combined, our results support a relatively low effective stress level near the megathrust in southern Cascadia, potentially due to elevated fluid pressures in the slab crust. Consequently, the ground motion in the onshore region above this low-stress section of southern Cascadia may not be as intense as that observed during great earthquakes in other subduction zones. Find the paper [here](https://doi.org/10.1785/0220240078).
+
+| ![FerndaleFigureWeb.jpg](/assets/img/FerndaleFigureWeb.jpg) | 
+|:--:| 
+| *Comparison of stress drop estimates for earthquakes in the slab crust and mantle.* |
+
+<h3 style="color:SeaGreen">
   Describing the Garlock Fault Zone with a Fiber (July 2024)
 </h3>
 
