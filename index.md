@@ -21,7 +21,7 @@ Welcome! I'm an observational seismologist and Mendenhall Postdoctoral Fellow at
   Experience
 </h3>
 
-*   United States Geological Survey (2019-present) - Mendenhall Postdoctoral Fellow
+*   United States Geological Survey (2024-present) - Mendenhall Postdoctoral Fellow
 *   Caltech Seismological Laboratory (2019-2024) - Graduate Student Researcher
 *   United States Geological Survey (2019) - NAGT Summer Intern
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
