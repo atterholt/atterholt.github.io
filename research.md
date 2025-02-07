@@ -7,6 +7,15 @@ layout: default
 </h2>
 
 * * *
+<h3 style="color:SeaGreen">
+  Stress Evolution Near a Big Earthquake (January 2025)
+</h3>
+
+How the orientations of faults change throughout an earthquake sequence can tell us a lot about absolute stress in the crust and how stress is variably unloaded and reloaded in response to ruptures and postseismic deformation. In this study, we made a long-term seismicity and moment tensor catalog for the 2019 Ridgecrest sequence to look at how fault orientations change in response to the foreshock, mainshock, and postseismic deformation. Typically, focal mechanisms are used to measure changes in stress orientation throughout a sequence; however, we use a new technique from point process theory that uses seismicity to measure how fault orientations change throughout the sequence. Our results suggest a complex relationship between postseismic deformation and reloading. This new method also resolves a lower background differential stress than what is resolved from more standard focal mechanism-based techniques. Check out the paper [here](https://doi.org/10.1093/gji/ggaf001).
+
+| ![Figure1_red_Catalog.jpg](/assets/img/Figure1_red_Catalog.jpg) | 
+|:--:| 
+| *Seismicity and moment tensor catalogs made in the study.* |
 
 <h3 style="color:SeaGreen">
   Sharp Moho Variability Illuminated with Fiber Seismology (November 2024)
