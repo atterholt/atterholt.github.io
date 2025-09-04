@@ -13,9 +13,9 @@ layout: default
 
 When magma moves through the earth it deforms the rocks around it. This deformation changes the seismic velocities in sometimes measurable ways. In 2023, an eruption started in the Reykjanes Peninsula in Iceland. A team at Caltech deployed a fiber-optic sensing array a 100 km-long fiber and captured this eruption sequence. Led by a student at Caltech, Eli Bird, we measured the changes in seismic velocity across several eruptions. From these measurements, we can identify the location, length, and depth of the dike responsible for the eruption. This is a new and exciting way to monitor ongoing volcanic events using existing telecom infrastructure. Check out the paper in AGU Advances [here](https://doi.org/10.1029/2024AV001516).
 
-| ![Figure1_red_Catalog.jpg](/assets/img/Figure1_red_Catalog.jpg) | 
+| ![Iceland_dv_o_V_fig.png](/assets/img/Iceland_dv_o_V_fig.png) | 
 |:--:| 
-| *Seismicity and moment tensor catalogs made in the study.* |
+| *Velocity changes across eruptions shown in this study.* |
 
 <h3 style="color:SeaGreen">
   Stress Evolution Near a Big Earthquake (January 2025)
