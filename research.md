@@ -11,7 +11,7 @@ layout: default
   Tracking Dike Opening with Velocity Changes in Iceland (February 2025)
 </h3>
 
-When magma moves through the earth it deforms the rocks around it. This deformation can change seismic velocities in measurable ways. In 2023, an eruption started in the Reykjanes Peninsula in Iceland. A team at Caltech deployed a fiber-optic sensing array using a 100 km-long fiber and captured this eruption sequence. Led by Eli Bird, we measured the changes in seismic velocity across several eruptions. From these measurements, we can identify the location, length, and depth of the dike responsible for the eruption. This is a new and exciting way to monitor ongoing volcanic events using existing telecom infrastructure. Check out the paper in AGU Advances [here](https://doi.org/10.1029/2024AV001516).
+When magma moves through the earth it deforms the rocks around it. This deformation can change seismic velocities in measurable ways. In 2023, an eruption started in the Reykjanes Peninsula in Iceland. A team at Caltech deployed a fiber-optic sensing array using a 100 km-long fiber and captured this eruption sequence. Led by Eli Bird, we measured changes in seismic velocity across several eruptions. From these measurements, we can infer the location, length, and depth of the dike responsible for the eruption using a Bayesian inversion. This is a new and exciting way to monitor ongoing volcanic events using existing telecom infrastructure. Check out the paper in AGU Advances [here](https://doi.org/10.1029/2024AV001516).
 
 | ![Iceland_dv_o_V_fig.png](/assets/img/Iceland_dv_o_V_fig.png) | 
 |:--:| 
