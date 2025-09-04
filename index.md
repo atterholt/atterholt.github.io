@@ -33,5 +33,5 @@ Welcome! I'm an observational seismologist and Mendenhall Postdoctoral Fellow at
 
 Feel free to reach out:
 
-*   Email: atterholt@caltech.edu
+*   Email: jatterholt@usgs.gov
 *   Bluesky: [@atterholt.bsky.social](https://bsky.app/profile/atterholt.bsky.social)
