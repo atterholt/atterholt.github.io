@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2 align="center" style="color:SeaGreen">
-  Outreach Activities
+  News & Outreach
 </h2>
 
 * * *
