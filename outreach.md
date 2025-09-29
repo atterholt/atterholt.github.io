@@ -23,7 +23,7 @@ Our work at Caltech [imaging the Moho](https://www.science.org/doi/full/10.1126/
   Caltech News Piece (November 2024)
 </h3>
 
-My work imaging the Moho in Southern California, published recently in [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr3327), was summarized nicely in [Caltech News](https://www.caltech.edu/about/news/new-technique-to-look-deep-within-tectonic-plates) this month.
+My work imaging the Moho in Southern California, published recently in [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr3327), was summarized nicely in [an article in Caltech News](https://www.caltech.edu/about/news/new-technique-to-look-deep-within-tectonic-plates) this month.
 
 <h3 style="color:SeaGreen">
   The Earthquake Fellows Program
