@@ -20,6 +20,12 @@ Our work imaging the M7 Mendocino Fault Earthquake, published recently in [Scien
 Our work at Caltech [imaging the Moho](https://www.science.org/doi/full/10.1126/sciadv.adr3327) and some of our preliminary work the USGS was featured in a wonderful popular science piece on fiber-optic sensing with telecom fibers. Andreas Fichtner, Jonathan Ajo-Franklin, Andreas Wustefeld, Daniel Bowden, and Rafael Mestre are some of the other scientists featured. Check it out [here](https://www.newscientist.com/article/2478861-how-buried-cables-are-revealing-earths-interior-in-incredible-detail/).
 
 <h3 style="color:SeaGreen">
+  Caltech News Piece (November 2024)
+</h3>
+
+My work imaging the Moho in Southern California, published recently in [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr3327), was summarized nicely in [Caltech News](https://www.caltech.edu/about/news/new-technique-to-look-deep-within-tectonic-plates) this month.
+
+<h3 style="color:SeaGreen">
   The Earthquake Fellows Program
 </h3>
 
