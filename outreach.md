@@ -7,6 +7,11 @@ layout: default
 </h2>
 
 * * *
+<h3 style="color:SeaGreen">
+  New Scientist Piece (May 2025)
+</h3>
+
+My work at Caltech and the USGS was featured in a wonderful popular science piece on fiber-optic sensing with telecom fibers. Andreas Fichtner, Jonathan Ajo-Franklin, Andreas Wustefeld, Daniel Bowden, and Rafael Mestre are some of the other scientists featured. Check it out [here](https://www.newscientist.com/article/2478861-how-buried-cables-are-revealing-earths-interior-in-incredible-detail/).
 
 <h3 style="color:SeaGreen">
   The Earthquake Fellows Program
