@@ -11,7 +11,7 @@ layout: default
   Science Paper Coverage (September 2025)
 </h3>
 
-Our work imaging the M7 Mendocino Fault Earthquake, published recently in [Science](https://www.science.org/stoken/author-tokens/ST-2925/full), was featured in some national and Bay Area publications. Check out the popular science articles in [NBC News](https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568), [SF Gate](https://www.sfgate.com/bayarea/article/usgs-study-21067213.php), and [KQED (npr)](https://www.kqed.org/science/1998623/fiber-optic-cables-could-revolutionize-earthquake-detection-and-monitoring).
+Our work imaging the M7 Mendocino Fault Earthquake, published recently in [Science](https://www.science.org/stoken/author-tokens/ST-2925/full), was featured in some national and Bay Area publications. Check out the popular science articles in [NBC News](https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568), [SFGate](https://www.sfgate.com/bayarea/article/usgs-study-21067213.php), and [KQED (npr)](https://www.kqed.org/science/1998623/fiber-optic-cables-could-revolutionize-earthquake-detection-and-monitoring).
 
 <h3 style="color:SeaGreen">
   New Scientist Piece (May 2025)
