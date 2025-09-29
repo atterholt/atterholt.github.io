@@ -26,7 +26,7 @@ Our work at Caltech [imaging the Moho](https://www.science.org/doi/full/10.1126/
 My work imaging the Moho in Southern California, published recently in [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr3327), was summarized nicely in [an article in Caltech News](https://www.caltech.edu/about/news/new-technique-to-look-deep-within-tectonic-plates) this month.
 
 <h3 style="color:SeaGreen">
-  The Earthquake Fellows Program
+  The Earthquake Fellows Program (September 2022)
 </h3>
 
 The Earthquake Fellows Program at Caltech is a new outreach initiative that introduces local high school students to scientific research through the lens of seismology. The goal of the program is to give students from groups that are underrepresented in science an opportunity to see what a career in science looks like. I was lucky enough to be involved in Earthquake Fellows throughout its first two years and had the opportunity to help shape the program's curriculum and objectives. Check out [this link](https://www.caltech.edu/about/news/caltech-earthquake-fellows) to learn more.
