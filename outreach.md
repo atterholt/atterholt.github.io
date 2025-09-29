@@ -8,10 +8,16 @@ layout: default
 
 * * *
 <h3 style="color:SeaGreen">
+  Mendocino Fault Earthquake Paper Coverage (September 2025)
+</h3>
+
+Our work imaging the M7 Mendocino Fault Earthquake, published recently in [Science](https://www.science.org/stoken/author-tokens/ST-2925/full), was featured in some national and Bay Area publications. Check out the popular science articles in [NBC News](https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568), [SF Gate](https://www.sfgate.com/bayarea/article/usgs-study-21067213.php), and [KQED (npr)](https://www.kqed.org/science/1998623/fiber-optic-cables-could-revolutionize-earthquake-detection-and-monitoring).
+
+<h3 style="color:SeaGreen">
   New Scientist Piece (May 2025)
 </h3>
 
-My work at Caltech and the USGS was featured in a wonderful popular science piece on fiber-optic sensing with telecom fibers. Andreas Fichtner, Jonathan Ajo-Franklin, Andreas Wustefeld, Daniel Bowden, and Rafael Mestre are some of the other scientists featured. Check it out [here](https://www.newscientist.com/article/2478861-how-buried-cables-are-revealing-earths-interior-in-incredible-detail/).
+Our work at Caltech [imaging the Moho](https://www.science.org/doi/full/10.1126/sciadv.adr3327) and some of our preliminary work the USGS was featured in a wonderful popular science piece on fiber-optic sensing with telecom fibers. Andreas Fichtner, Jonathan Ajo-Franklin, Andreas Wustefeld, Daniel Bowden, and Rafael Mestre are some of the other scientists featured. Check it out [here](https://www.newscientist.com/article/2478861-how-buried-cables-are-revealing-earths-interior-in-incredible-detail/).
 
 <h3 style="color:SeaGreen">
   The Earthquake Fellows Program
