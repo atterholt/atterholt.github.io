@@ -8,7 +8,7 @@ layout: default
 
 * * *
 <h3 style="color:SeaGreen">
-  Imaging a California Earthquake with a Fiber (September 2025)
+  Imaging a Big California EQ with a Fiber (September 2025)
 </h3>
 
 In December 2024, a magnitude 7 earthquake ruptured off the coast of Cape Mendocino—the largest California earthquake in five years. Because it occurred offshore and outside the regional seismic network, the rupture was difficult to image with standard techniques. But it was captured by a nearby distributed fiber-optic array. Using array seismology on this fiber dataset, we were able to image the rupture propagation at high resolution and made two key observations. 1. Supershear transition: our fine-scale rupture image clearly shows the earthquake accelerating to supershear velocity, shedding light on why some ruptures go supershear. 2. Rapid rupture characterization: by analyzing just the first several seconds of the P-wave, our method resolves rupture directivity and length, pointing to how compact fiber arrays could improve earthquake early warning alerts. Read more in our paper in Science [here](https://www.science.org/stoken/author-tokens/ST-2925/full).
