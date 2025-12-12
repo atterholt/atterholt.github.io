@@ -8,6 +8,17 @@ layout: default
 
 * * *
 <h3 style="color:SeaGreen">
+  Cal Poly Humboldt Feature (December 2025)
+</h3>
+
+Cal Poly Humboldt campus news recently joined us for a big expansion of our DAS array in Humboldt County. We enlisted the help of Cal Poly geology students for the tap test used to locate the channels. Lots of hammer swinging and head scratching; overall a successful day. Learn more in the article[https://now.humboldt.edu/news/new-project-turns-internet-lines-earthquake-monitoring-system-video] and the accompanying video.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/watch?v=NVWenlA3zlY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<h3 style="color:SeaGreen">
   Scientific American Article (December 2025)
 </h3>
 
