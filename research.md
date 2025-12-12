@@ -8,6 +8,12 @@ layout: default
 
 * * *
 <h3 style="color:SeaGreen">
+  Mandalay Earthquake Imaging (October 2025)
+</h3>
+
+Following the devastating Mandalay earthquake earlier this year, my colleagues and I at the Geologic Hazards Science Center used a range of techniques to image the rupture in detail. Led by Dara Goldberg and Will Yeck, our study shows that the earthquake was unusually long for its magnitude and ruptured at surprisingly high speeds, with a large portion of the fault slipping at supershear velocities. This event may be an  analog for large ruptures on the San Andreas Fault, and our results challenge some of the assumptions commonly used to estimate hazard for major strike-slip earthquakes. Read more in our paper in Science [here](https://www.science.org/doi/full/10.1126/science.ady3581).
+
+<h3 style="color:SeaGreen">
   Imaging a Big California EQ with a Fiber (September 2025)
 </h3>
 
