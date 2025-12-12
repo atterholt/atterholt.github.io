@@ -8,6 +8,12 @@ layout: default
 
 * * *
 <h3 style="color:SeaGreen">
+  Scientific American Article (December 2025)
+</h3>
+
+Our work was recently featured in an [article](https://www.scientificamerican.com/article/telecom-fiber-optic-cables-measured-an-earthquake-in-incredible-detail/) in Scientific American. Brad Lipovsky and Zhongwen Zhan are quoted in the article.
+
+<h3 style="color:SeaGreen">
   Science Paper Coverage (September 2025)
 </h3>
 
