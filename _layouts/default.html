@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 style="text-align:center; color:SeaGreen">{{ site.title | default: site.github.repository_name }}</font></h1>
+        <h1 style="text-align:center; color:#003366">{{ site.title | default: site.github.repository_name }}</font></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -28,10 +28,10 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p style="text-align:left; color:SeaGreen"><font size="+1"><a href="https://atterholt.github.io/" style="color: SeaGreen">About</a></font></p>
-        <p style="text-align:left; color:SeaGreen"><font size="+1"><a href="/research.html" style="color: SeaGreen">Research Blog</a></font></p>
-        <p style="text-align:left; color:SeaGreen"><font size="+1"><a href="/outreach.html" style="color: SeaGreen">News & Outreach</a></font></p>
-        <p style="text-align:left; color:SeaGreen"><font size="+1"><a href="/assets/img/Atterholt_CV_2026.pdf" style="color: SeaGreen">CV</a></font></p>
+        <p style="text-align:left; color:#003366"><font size="+1"><a href="https://atterholt.github.io/" style="color: #003366">About</a></font></p>
+        <p style="text-align:left; color:#003366"><font size="+1"><a href="/research.html" style="color: #003366">Research Blog</a></font></p>
+        <p style="text-align:left; color:#003366"><font size="+1"><a href="/outreach.html" style="color: #003366">News & Outreach</a></font></p>
+        <p style="text-align:left; color:#003366"><font size="+1"><a href="/assets/img/Atterholt_CV_2026.pdf" style="color: #003366">CV</a></font></p>
         {% endif %}
 
         {% if site.show_downloads %}
