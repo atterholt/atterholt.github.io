@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<h2 align="center" style="color:SeaGreen">
+<h2 align="center" style="color:#003366">
   Research Blog
 </h2>
 
 * * *
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Mandalay Earthquake Imaging (October 2025)
 </h3>
 
@@ -17,7 +17,7 @@ Following the devastating Mandalay earthquake earlier this year, my colleagues a
 |:--:| 
 | *Mandalay Earthquake slip distribution.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Imaging a Big California EQ with a Fiber (September 2025)
 </h3>
 
@@ -27,7 +27,7 @@ In December 2024, a magnitude 7 earthquake ruptured off the coast of Cape Mendoc
 |:--:| 
 | *Rupture image produced in this study.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Tracking Dike Opening with Fiber in Iceland (February 2025)
 </h3>
 
@@ -37,7 +37,7 @@ When magma moves through the earth it deforms the rocks around it. This deformat
 |:--:| 
 | *Velocity changes across eruptions shown in this study.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Stress Evolution Near a Big Earthquake (January 2025)
 </h3>
 
@@ -47,7 +47,7 @@ How the orientations of faults change throughout an earthquake sequence can tell
 |:--:| 
 | *Seismicity and moment tensor catalogs made in the study.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Sharp Moho Variability Illuminated with Fiber Seismology (November 2024)
 </h3>
 
@@ -57,7 +57,7 @@ The topography of the Moho (crust-mantle boundary) can yield fundamental insight
 |:--:| 
 | *Summary of the many PmP measurements made with our new technique.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Estimating Stress Near a Megathrust Fault (November 2024)
 </h3>
 
@@ -67,7 +67,7 @@ The stress level near a megathrust fault is important but hard to constrain. On 
 |:--:| 
 | *Demonstration of lower stress drops for earthquakes in the slab crust.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Describing the Garlock Fault Zone with a Fiber (July 2024)
 </h3>
 
@@ -77,7 +77,7 @@ Earthquake ruptures happen within fault zones. The structure of fault zones and 
 |:--:| 
 | *Schematic of the Garlock Fault Zone summarizing this study's results.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Finding patterns in strike-slip ruptures (November 2023)
 </h3>
 
@@ -87,7 +87,7 @@ Earthquake ruptures are complicated processes, and their behavior depends on enc
 |:--:| 
 | *Distributions of source quantities computed in this study organized by tectonic region.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Finding and describing little faults (November 2022)
 </h3>
 
@@ -97,7 +97,7 @@ Fault zones are structures that control where and how earthquakes happen. These 
 |:--:| 
 | *Amplitude of the backprojected scattered wavefield at different frequencies on the left and comparison of these amplitude profiles to mapped faults in the area on the right.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Robustly describing earthquake ruptures (Mar 2022)
 </h3>
 
@@ -107,7 +107,7 @@ Earthquake ruptures mostly happen deep within the Earth, and seismologists try t
 |:--:| 
 | *Representation of the second moments of the stress glut for the 2019 Mw 7.1 Ridgecrest Earthquake.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Exploring ground shaking variability (Dec 2021)
 </h3>
 
@@ -117,7 +117,7 @@ Earthquake hazards estimation is complicated and requires the consideration of n
 |:--:| 
 | *Summary image showing the velocity model and ground motion variability in the context of the 2021 Ridgecrest Earthquake sequence (from EOS article)* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Illuminating blurry signals (Oct 2021)
 </h3>
 
@@ -127,7 +127,7 @@ Distributed acoustic sensing (DAS) is an emergent technology that converts fiber
 |:--:| 
 | *Examples of curvelets (affectionately called "little plane waves") in the frequency-wavenumber and spatiotemporal domains.* |
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Sensing the fabric of rocks (Jan 2021)
 </h3>
 
