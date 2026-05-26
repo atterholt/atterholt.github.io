@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-Welcome! I'm an observational geophysicist and Mendenhall Postdoc at the US Geological Survey. My research incorporates techniques from applied mathematics and photonic sensing to better understand the Earth and monitor geohazards. When I'm not looking at wiggle plots, I can be found playing with my puppy or working in my garden. For my complete publication record and background, please see my CV. 
+Welcome! I'm an observational geophysicist and Mendenhall Postdoc at the US Geological Survey. My research incorporates techniques from applied mathematics and fiber-optic sensing to better understand the Earth and monitor geohazards. When I'm not looking at wiggle plots, I can be found playing with my puppy or working in my garden. For my complete publication record and background, please see my CV. 
 
 I'll be starting as an assistant professor of geophysics at the University of Arizona in the fall and will be recruiting a postdoc and graduate students. If you're interested in working with me, please send me an email! I would be glad to hear from you.
 
@@ -36,5 +36,5 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
 
 Feel free to reach out:
 
-*   Email: [jamesatterholt@gmail.com](jamesatterholt@gmail.com)
+*   Email: [jamesatterholt@gmail.com](mailto:jamesatterholt@gmail.com)
 *   Linkedin: [Profile](https://www.linkedin.com/in/atterholt/)
