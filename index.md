@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-Welcome! I'm an observational geophysicist and Mendenhall Postdoctoral Fellow at the US Geological Survey. My research incorporates techniques from applied mathematics and photonic sensing to better understand Earth structure and earthquakes. When I'm not looking at wiggle plots, I can be found playing with my puppy or losing at backgammon. For my complete publication record and background, please see my CV. Also, check out the software on my [Github page](https://github.com/atterholt).
+Welcome! I'm an observational geophysicist and Mendenhall Postdoc at the US Geological Survey. My research incorporates techniques from applied mathematics and photonic sensing to better understand Earth structure and earthquakes. When I'm not looking at wiggle plots, I can be found playing with my puppy or losing at backgammon. For my complete publication record and background, please see my CV. I'll be starting as an assistant professor of geophysics at the University of Arizona in the fall. I'll be recruiting a postdoc and graduate students. If you're interested in working with me, please send me an email! I would be glad to hear from you.
 
 <h3 style="color:SeaGreen">
   Education
@@ -21,7 +21,8 @@ Welcome! I'm an observational geophysicist and Mendenhall Postdoctoral Fellow at
   Experience
 </h3>
 
-*   United States Geological Survey (2024-present) - Mendenhall Postdoctoral Fellow
+*   University of Arizona (2026-present) - Assistant Professor
+*   United States Geological Survey (2024-2026) - Mendenhall Postdoctoral Fellow
 *   Caltech Seismological Laboratory (2019-2024) - Graduate Student Researcher
 *   United States Geological Survey (2019) - NAGT Summer Intern
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
@@ -33,5 +34,5 @@ Welcome! I'm an observational geophysicist and Mendenhall Postdoctoral Fellow at
 
 Feel free to reach out:
 
-*   Email: jatterholt@usgs.gov
+*   Email: jamesatterholt@gmail.com
 *   Bluesky: [@atterholt.bsky.social](https://bsky.app/profile/atterholt.bsky.social)
