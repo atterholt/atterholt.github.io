@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2 align="center" style="color:SeaGreen">
+<h2 align="center" style="color:#003366">
   Summary
 </h2>
 
@@ -11,7 +11,7 @@ Welcome! I'm an observational geophysicist and Mendenhall Postdoc at the US Geol
 
 I'll be starting as an assistant professor of geophysics at the University of Arizona in the fall and will be recruiting a postdoc and graduate students. If you're interested in working with me, please send me an email! I would be glad to hear from you.
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Education
 </h3>
 <ul class="a">
@@ -19,7 +19,7 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
   <li>Indiana University (2015-2019) - BS Mathematics and BS Geological Sciences</li>
 </ul>
     
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Experience
 </h3>
 
@@ -30,7 +30,7 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
 *   Los Alamos National Laboratory (2017) - IRIS Summer Intern
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Contact
 </h3>
 
