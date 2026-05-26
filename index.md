@@ -23,8 +23,8 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
   Experience
 </h3>
 
-*   University of Arizona (2026-present) - Assistant Professor (starting in the fall)
-*   United States Geological Survey (2024-2026) - Mendenhall Postdoctoral Fellow
+*   University of Arizona (starting fall of 2026) - Assistant Professor (starting in the fall)
+*   United States Geological Survey (2024-present) - Mendenhall Postdoctoral Fellow
 *   Caltech Seismological Laboratory (2019-2024) - Graduate Student Researcher
 *   United States Geological Survey (2019) - NAGT Summer Intern
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
