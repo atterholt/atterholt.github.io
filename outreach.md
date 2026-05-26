@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<h2 align="center" style="color:SeaGreen">
+<h2 align="center" style="color:#003366">
   News & Outreach
 </h2>
 
 * * *
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Cal Poly Humboldt Feature (December 2025)
 </h3>
 
@@ -18,31 +18,31 @@ Cal Poly Humboldt campus news recently joined us for a big expansion of our DAS 
     src="https://www.youtube.com/embed/NVWenlA3zlY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Scientific American Article (December 2025)
 </h3>
 
 Our work was recently featured in an [article](https://www.scientificamerican.com/article/telecom-fiber-optic-cables-measured-an-earthquake-in-incredible-detail/) in Scientific American. Brad Lipovsky and Zhongwen Zhan are quoted in the article.
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Science Paper Coverage (September 2025)
 </h3>
 
 Our work imaging the M7 Mendocino Fault Earthquake, published recently in [Science](https://www.science.org/stoken/author-tokens/ST-2925/full), was featured in some national and Bay Area publications. Check out the popular science articles in [NBC News](https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568), [SFGate](https://www.sfgate.com/bayarea/article/usgs-study-21067213.php), and [KQED (npr)](https://www.kqed.org/science/1998623/fiber-optic-cables-could-revolutionize-earthquake-detection-and-monitoring).
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   New Scientist Piece (May 2025)
 </h3>
 
 Our work at Caltech [imaging the Moho](https://www.science.org/doi/full/10.1126/sciadv.adr3327) and some of our preliminary work the USGS was featured in a wonderful popular science piece on fiber-optic sensing with telecom fibers. Andreas Fichtner, Jonathan Ajo-Franklin, Andreas Wustefeld, Daniel Bowden, and Rafael Mestre are some of the other scientists featured. Check it out [here](https://www.newscientist.com/article/2478861-how-buried-cables-are-revealing-earths-interior-in-incredible-detail/).
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   Caltech News Piece (November 2024)
 </h3>
 
 My work imaging the Moho in Southern California, published recently in [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adr3327), was summarized nicely in [an article in Caltech News](https://www.caltech.edu/about/news/new-technique-to-look-deep-within-tectonic-plates) this month.
 
-<h3 style="color:SeaGreen">
+<h3 style="color:#003366">
   The Earthquake Fellows Program (September 2022)
 </h3>
 
