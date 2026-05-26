@@ -23,7 +23,7 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
   Experience
 </h3>
 
-*   University of Arizona (starting fall of 2026) - Assistant Professor (starting in the fall)
+*   University of Arizona (starting fall 2026) - Assistant Professor
 *   United States Geological Survey (2024-present) - Mendenhall Postdoctoral Fellow
 *   Caltech Seismological Laboratory (2019-2024) - Graduate Student Researcher
 *   United States Geological Survey (2019) - NAGT Summer Intern
@@ -36,5 +36,5 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
 
 Feel free to reach out:
 
-*   Email: jamesatterholt@gmail.com
-*   Bluesky: [@atterholt.bsky.social](https://bsky.app/profile/atterholt.bsky.social)
+*   Email: [jamesatterholt@gmail.com](jamesatterholt@gmail.com)
+*   Linkedin: [Profile](https://www.linkedin.com/in/atterholt/)
