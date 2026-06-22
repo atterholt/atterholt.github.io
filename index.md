@@ -36,5 +36,5 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
 
 Feel free to reach out:
 
-*   Email: [jamesatterholt@gmail.com](mailto:jamesatterholt@gmail.com)
+*   Email: [atterholt@arizona.edu](mailto:atterholt@arizona.edu)
 *   Linkedin: [Profile](https://www.linkedin.com/in/atterholt/)
