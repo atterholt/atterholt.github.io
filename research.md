@@ -8,10 +8,10 @@ layout: default
 
 * * *
 <h3 style="color:#003366">
-  Illuminating Complex Basin Effects (June 2026)
+  What Happens at the Basin Edge (June 2026)
 </h3>
 
-The boundaries of sedimentary basins can scatter seismic waves and amplify ground shaking. This effect has been difficult to include in seismic hazard models because we usually lack detailed information about where basin edges are and how they affect seismic waves. Fiber-optic arrays provide ultra-dense observations. In this study, we show that these dense observations allow us to solve for a velocity model that shows the location of basin edges in super fine detail. Moreover, we can compare this model to unaliased observations of seismic wavefields from earthquakes to see how these basin edges amplify ground motions and ground strains. With a comparison to synthetic tests, we develop a more complete picture of the secondary effects of basins on seismic hazard. Read more in our paper in GRL [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119492).
+The boundaries of sedimentary basins can scatter seismic waves and amplify ground shaking. This effect has been difficult to include in seismic hazard models because we usually lack detailed information about where basin edges are and how exactly they affect seismic waves. Fiber-optic arrays provide ultra-dense observations. In this study, we show that these dense observations allow us to solve for a velocity model that shows the location of basin edges in super fine detail. Moreover, we can compare this model to unaliased observations of seismic wavefields from earthquakes to see how these basin edges amplify ground motions and ground strains. With a comparison to synthetic tests, we develop a more complete picture of the effects of basins on seismic hazard. Read more in our paper in GRL [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119492).
 
 | ![Summary_Figure_Science.png](/assets/img/Basin_Figure_web.png) | 
 |:--:| 
