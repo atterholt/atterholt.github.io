@@ -7,9 +7,7 @@ layout: default
 
 * * *
 
-Welcome! I'm an observational geophysicist and Mendenhall Postdoc at the US Geological Survey. My research incorporates techniques from applied mathematics and fiber-optic sensing to better understand the Earth and monitor geohazards. When I'm not looking at wiggle plots, I can be found playing with my puppy or working in my garden. For my complete publication record and background, please see my CV. 
-
-I'll be starting as an assistant professor of geophysics at the University of Arizona in the fall and will be recruiting a postdoc and graduate students. If you're interested in working with me, please send me an email! I would be glad to hear from you.
+Welcome! I'm an observational geophysicist and incoming Assistant Professor at the University of Arizona. My research incorporates techniques from applied mathematics and fiber-optic sensing to better understand the Earth and monitor geohazards. When I'm not looking at wiggle plots, I can be found playing with my puppy or working in my garden. For my complete publication record and background, please see my CV. I'm looking for curious and motivated prospective students and postdocs to join my lab. Please don't hesitate to reach out!
 
 <h3 style="color:#003366">
   Education
@@ -24,7 +22,7 @@ I'll be starting as an assistant professor of geophysics at the University of Ar
 </h3>
 
 *   University of Arizona (starting fall 2026) - Assistant Professor
-*   United States Geological Survey (2024-present) - Mendenhall Postdoctoral Fellow
+*   United States Geological Survey (2024-2026) - Mendenhall Postdoctoral Fellow
 *   Caltech Seismological Laboratory (2019-2024) - Graduate Student Researcher
 *   United States Geological Survey (2019) - NAGT Summer Intern
 *   Indiana University Geophysics Laboratory (2015-2019) - STARS Undergraduate Researcher
