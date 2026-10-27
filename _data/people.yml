@@ -15,18 +15,17 @@ pi:
   cv: /assets/img/Atterholt_CV_2026.pdf
   linkedin: https://www.linkedin.com/in/atterholt/
   bio: >-
-    Jimmy Atterholt is an observational geophysicist and Assistant Professor of Geosciences at
-    the University of Arizona. His research combines fiber-optic sensing with applied mathematics
-    to study fault zones, crustal structure, and earthquake physics, and to monitor geohazards.
-    Before joining Arizona in 2026, he was a Mendenhall Postdoctoral Fellow at the U.S. Geological
-    Survey. Outside of research he can usually be found with his dog or working in his garden.
+    I'm an observational seismologist and Assistant Professor of Geosciences at the University of
+    Arizona. My research combines fiber-optic sensing with applied mathematics to study lithospheric
+    structure, earthquake dynamics, and geohazards. Day-to-day, my work involves looking at lots and
+    lots of wiggle plots. Before joining Arizona, I was a Mendenhall Postdoctoral Fellow at the U.S.
+    Geological Survey. Outside of research I can usually be found with my dog or working in my garden.
   education:
     - PhD Geophysics, California Institute of Technology (2024)
     - BS Mathematics and BS Geological Sciences, Indiana University (2019)
-  experience:
+  positions:
     - Assistant Professor, University of Arizona (2026-present)
     - Mendenhall Postdoctoral Fellow, U.S. Geological Survey (2024-2026)
-    - Graduate Student Researcher, Caltech Seismological Laboratory (2019-2024)
 
 members:
   - name: Nikhil Punithan
