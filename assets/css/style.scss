@@ -52,7 +52,7 @@ p { margin: 0 0 1em; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 72px; }
 .brand { display: flex; flex-direction: column; text-decoration: none; line-height: 1.15; }
 .brand-name { font-family: var(--serif); font-weight: 700; font-size: 1.4rem; color: var(--navy); }
-.brand-sub { font-size: 0.82rem; color: var(--muted); }
+.brand-sub { font-size: 0.82rem; font-weight: 600; color: var(--red); }
 .brand:hover .brand-name { color: var(--red); }
 .site-nav { display: flex; gap: 28px; }
 .site-nav a {
