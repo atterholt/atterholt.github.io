@@ -54,7 +54,7 @@
       link: https://doi.org/10.1029/2022JB025052
 
 - id: earthquake-sources
-  title: Earthquake Source Physics
+  title: Earthquake Ruptures
   summary: How ruptures start, grow, and stop, measured with dense arrays and probabilistic source models.
   image: /assets/img/web/mendocino.jpg
   caption: Rupture of the 2024 Mw 7 Mendocino earthquake imaged with a fiber-optic array onshore (purple), showing the transition to supershear.
