@@ -59,13 +59,12 @@
   intro: >-
     Earthquake ruptures are usually inferred from a limited number of stations far from the fault,
     which leaves many source properties poorly constrained. We approach this from two directions.
-    Dense fiber arrays near the source let us image rupture directly. Low-dimensional Bayesian
-    methods give robust, probabilistic descriptions of ruptures that can be compared across many
-    earthquakes, so patterns in rupture behavior can be tied to fault structure and stress.
+    Dense fiber arrays near the source let us image rupture directly, at high resolution.
+    Low-dimensional, probabilistic source models let us compare ruptures across many earthquakes
+    and uncover patterns in rupture behavior.
   questions:
-    - What controls whether a rupture accelerates to supershear speed?
+    - What is the relationship between fault structure and rupture dynamics?
     - How much can a compact array near the source tell us in the first seconds of an earthquake?
-    - How does stress in the crust unload and reload through an earthquake sequence?
   highlights:
     - title: Supershear rupture imaged with a fiber
       text: >-
