@@ -17,16 +17,14 @@
   image: /assets/img/web/moho-pmp.jpg
   caption: Moho-reflected PmP phases picked across hundreds of earthquakes recorded on a 100 km fiber in Southern California.
   intro: >-
-    Dense fiber sampling resolves structure at scales that normally fall between seismic stations.
-    We use it to image the lithosphere from the fault zones that host earthquakes, through the
-    crust-mantle boundary, down to the subducting slab. Fiber arrays record the wavefield every few
-    meters over tens of kilometers for months to years, which lets us find sharp structural changes,
-    damage zones, and velocity contrasts that sparse networks miss. These images constrain how
-    plates deform and set the stage for how future earthquakes will rupture.
+    Fiber arrays record the wavefield every few meters over tens of kilometers for months to years,
+    which lets us find sharp structural changes, damage zones, and velocity contrasts that sparse
+    networks miss. These images constrain how plates deform and set the stage for how future
+    earthquakes will rupture. Our imaging targets the Cascadia Subduction Zone, the San Andreas
+    Fault, the Eastern California Shear Zone, and the Arizona Transition Zone.
   questions:
-    - How sharply does crustal thickness change across faults and volcanic fields?
-    - What does fine-scale structure in subducting slabs tell us about their mechanics?
-    - Do mature faults keep a damage zone at seismogenic depths, and how do velocity contrasts across them steer ruptures?
+    - How is crustal structure modified by faults, magmatic systems, and tectonic regimes?
+    - How does the fine-scale structure of slabs modify megathrust mechanics?
   highlights:
     - title: Sharp changes in Moho depth
       text: >-

@@ -23,7 +23,7 @@ description: Research themes of the Atterholt Group at the University of Arizona
       <div>
         {{ theme.intro | markdownify }}
         {% if theme.questions and theme.questions.size > 0 %}
-        <h3>Questions we are asking</h3>
+        <h3>Key questions</h3>
         <ul class="questions">
           {% for q in theme.questions %}<li>{{ q }}</li>{% endfor %}
         </ul>
