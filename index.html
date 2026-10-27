@@ -4,27 +4,21 @@ title: Home
 ---
 
 <section class="hero">
-  <div class="container hero-grid">
-    <div>
-      <p class="eyebrow">{{ site.group.department }} &middot; {{ site.group.university }}</p>
-      <h1>We use fiber-optic sensing to image the lithosphere, understand earthquakes, and assess geohazards.</h1>
-      <p class="lead">
-        The {{ site.group.name }} turns fiber-optic cables, including existing telecom lines, into
-        dense arrays with sensors every few meters over tens of kilometers. We combine these
-        observations with applied mathematics and statistical inference to image fault zones, the
-        Moho, and subducting slabs, to follow earthquakes as they rupture, and to measure how basins,
-        volcanoes, and precipitation shape hazards, at resolutions that conventional seismic
-        networks cannot reach.
-      </p>
-      <div class="actions">
-        <a class="button primary" href="{{ '/research.html' | relative_url }}">Our research</a>
-        <a class="button secondary" href="{{ '/group.html' | relative_url }}">Meet the group</a>
-      </div>
+  <div class="container hero-inner">
+    <p class="eyebrow">{{ site.group.department }} &middot; {{ site.group.university }}</p>
+    <h1>We use fiber-optic sensing to image the lithosphere, understand earthquakes, and assess geohazards.</h1>
+    <p class="lead">
+      The {{ site.group.name }} turns fiber-optic cables, including existing telecom lines, into
+      dense arrays with sensors every few meters over tens of kilometers. We combine these
+      observations with applied mathematics and statistical inference to image fault zones, the
+      Moho, and subducting slabs, to follow earthquakes as they rupture, and to measure how basins,
+      volcanoes, and precipitation shape hazards, at resolutions that conventional seismic
+      networks cannot reach.
+    </p>
+    <div class="actions">
+      <a class="button primary" href="{{ '/research.html' | relative_url }}">Our research</a>
+      <a class="button secondary" href="{{ '/group.html' | relative_url }}">Meet the group</a>
     </div>
-    <figure>
-      <img src="{{ '/assets/img/web/garlock.jpg' | relative_url }}" alt="Schematic cross-section of the Garlock Fault Zone showing velocity structure in the near surface, shallow crust, and at seismogenic depths.">
-      <figcaption>Structure of the Garlock Fault Zone at different depths, inferred from a fiber-optic array that crosses the fault.</figcaption>
-    </figure>
   </div>
 </section>
 
