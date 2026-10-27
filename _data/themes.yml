@@ -97,16 +97,14 @@
   image: /assets/img/web/basin-edge.jpg
   caption: Earthquake strain wavefield (top) and shallow shear-wave velocity structure (bottom) across a basin edge, recorded by a fiber-optic array.
   intro: >-
-    Many hazards are controlled by structure and processes in the top few kilometers of the Earth,
-    where fiber-optic cables already run. Dense fiber observations show how basin edges and
-    near-surface geology amplify and scatter seismic waves over distances of meters, the scale
-    that matters for buildings and infrastructure. Because fiber records continuously over tens of
-    kilometers, it can also track changes through time, from magma moving beneath a volcano to
-    rainfall and near-surface water.
+    Many hazards are controlled by structure and processes near the surface of the Earth, and can be
+    measured using nearby telecom fibers. Dense observations can record ground motion variability at
+    the scale of a city block, which is important for buildings and infrastructure. Because fiber
+    records continuously over tens of kilometers, it can also track changes through time, from magma
+    moving beneath a volcano to rainfall and near-surface water content.
   questions:
-    - How do basin edges and near-surface structure amplify and scatter ground motion?
-    - Can velocity changes measured on telecom fiber locate and size a dike as it opens?
-    - How well can fiber arrays measure precipitation, and how do we separate it from earthquakes and traffic?
+    - What controls ground motion amplification at the sub-kilometer scale?
+    - How can fibers densify our monitoring of hazardous hydrological processes?
   highlights:
     - title: What happens at the basin edge
       text: >-
