@@ -9,7 +9,7 @@
 #   caption    figure caption
 #   intro      a paragraph or two (Markdown allowed)
 #   questions  open questions the group is working on
-#   highlights selected studies: title, text, cite, link
+#   select_publications  DOIs of papers to list; title, journal, and year come from _data/publications.yml
 
 - id: lithospheric-structure
   title: Lithospheric Structure
@@ -25,31 +25,10 @@
   questions:
     - How is crustal structure modified by faults, magmatic systems, and tectonic regimes?
     - How does the fine-scale structure of slabs modify megathrust mechanics?
-  highlights:
-    - title: Sharp changes in Moho depth
-      text: >-
-        PmP reflections on a fiber between Ridgecrest and Barstow show abundant short-wavelength
-        changes in crustal thickness, with sharp steps across the Garlock Fault and Coso Volcanic Field.
-      cite: Atterholt and Zhan (2024), Science Advances
-      link: https://doi.org/10.1126/sciadv.adr3327
-    - title: Structure of the Gorda slab
-      text: >-
-        Fiber observations resolve sharp structural variability within the subducting Gorda slab
-        in southern Cascadia.
-      cite: Atterholt et al. (2026), Nature Communications
-      link: https://doi.org/10.1038/s41467-026-76002-8
-    - title: A limited damage zone and a hidden contrast
-      text: >-
-        A fiber crossing the Garlock Fault shows only a limited low-velocity damage zone at depth,
-        which may point to healing, and a sharp velocity contrast that could affect future ruptures.
-      cite: Atterholt et al. (2024), JGR Solid Earth
-      link: https://doi.org/10.1029/2024JB028900
-    - title: Finding small faults with scattered waves
-      text: >-
-        We backproject scattered surface waves in earthquake wavefields to locate small fault zones,
-        then use synthetic tests to constrain their dimensions.
-      cite: Atterholt et al. (2022), JGR Solid Earth
-      link: https://doi.org/10.1029/2022JB025052
+  select_publications:
+    - 10.1038/s41467-026-76002-8
+    - 10.1126/sciadv.adr3327
+    - 10.1029/2024JB028900
 
 - id: earthquake-sources
   title: Earthquake Ruptures
@@ -65,31 +44,10 @@
   questions:
     - What is the relationship between fault structure and rupture dynamics?
     - How much can a compact array near the source tell us in the first seconds of an earthquake?
-  highlights:
-    - title: Supershear rupture imaged with a fiber
-      text: >-
-        A fiber array imaged the 2024 Mw 7 Mendocino earthquake accelerating to supershear speed,
-        and the first seconds of the P wave resolved rupture direction and length.
-      cite: Atterholt et al. (2025), Science
-      link: https://doi.org/10.1126/science.adx6858
-    - title: An ultralong rupture in Myanmar
-      text: >-
-        With USGS colleagues, we showed the 2025 Mw 7.7 Mandalay earthquake was unusually long for
-        its magnitude, with much of the fault slipping at supershear speed.
-      cite: Goldberg et al. (2025), Science
-      link: https://doi.org/10.1126/science.ady3581
-    - title: Patterns in large strike-slip earthquakes
-      text: >-
-        Bayesian second-moment inversions of every large strike-slip earthquake from three decades
-        reveal patterns in directivity and in the rheology of oceanic faults.
-      cite: Atterholt and Ross (2023), GJI
-      link: https://doi.org/10.1093/gji/ggad459
-    - title: Fault orientations through a sequence
-      text: >-
-        A long-term seismicity and moment tensor catalog for the 2019 Ridgecrest sequence tracks how
-        fault orientations, and the stress field, change after the mainshock.
-      cite: Atterholt et al. (2025), GJI
-      link: https://doi.org/10.1093/gji/ggaf001
+  select_publications:
+    - 10.1126/science.adx6858
+    - 10.1126/science.ady3581
+    - 10.1093/gji/ggad459
 
 - id: geohazards
   title: Geohazards
@@ -105,22 +63,7 @@
   questions:
     - What controls ground motion amplification at the sub-kilometer scale?
     - How can fibers densify our monitoring of hazardous hydrological processes?
-  highlights:
-    - title: What happens at the basin edge
-      text: >-
-        A detailed velocity model and unaliased earthquake wavefields show how a basin edge
-        amplifies ground motions and strains at the meter scale.
-      cite: Atterholt et al. (2026), GRL
-      link: https://doi.org/10.1029/2025GL119492
-    - title: Shallow structure and ground motion
-      text: >-
-        Near-surface structure imaged with fiber near Ridgecrest varies over a few kilometers and
-        tracks the variability in earthquake ground motion.
-      cite: Yang et al. (2021), GRL
-      link: https://doi.org/10.1029/2021GL096503
-    - title: Tracking dike opening in Iceland
-      text: >-
-        Velocity changes measured across several eruptions on a telecom fiber constrain the
-        location, length, and depth of the dike through a Bayesian inversion.
-      cite: Bird et al. (2025), AGU Advances
-      link: https://doi.org/10.1029/2024AV001516
+  select_publications:
+    - 10.1029/2025GL119492
+    - 10.1029/2024AV001516
+    - 10.1029/2022JB025052

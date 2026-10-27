@@ -34,15 +34,14 @@ description: Research themes of the Atterholt Group at the University of Arizona
         <figcaption>{{ theme.caption }}</figcaption>
       </figure>
     </div>
-    {% if theme.highlights %}
-    <div class="highlights">
-      {% for h in theme.highlights %}
-      <div class="highlight">
-        <h4>{{ h.title }}</h4>
-        <p>{{ h.text }}</p>
-        <p class="cite">{% if h.link %}<a href="{{ h.link }}">{{ h.cite }}</a>{% else %}{{ h.cite }}{% endif %}</p>
-      </div>
-      {% endfor %}
+    {% if theme.select_publications %}
+    <div class="select-pubs">
+      <h3>Select publications</h3>
+      <ul>
+        {% for doi in theme.select_publications %}{% for y in site.data.publications.years %}{% for p in y.papers %}{% if p.doi == doi %}
+        <li><a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>. <span class="pub-meta">{{ p.venue }}, {{ y.year }}</span></li>
+        {% endif %}{% endfor %}{% endfor %}{% endfor %}
+      </ul>
     </div>
     {% endif %}
   </section>

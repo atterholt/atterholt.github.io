@@ -137,11 +137,11 @@ p { margin: 0 0 1em; }
 .theme figcaption { font-size: 0.88rem; color: var(--muted); margin-top: 8px; }
 .theme .questions { margin: 0 0 1em; padding-left: 1.2em; }
 .theme .questions li { margin-bottom: 0.35em; }
-.highlights { margin-top: 28px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-.highlight { padding: 16px 18px; background: var(--soft); border-radius: 8px; border-left: 3px solid var(--red); }
-.highlight h4 { margin: 0 0 0.3em; font-size: 1rem; color: var(--navy); font-family: var(--sans); }
-.highlight p { margin: 0 0 0.4em; font-size: 0.95rem; }
-.highlight .cite { font-size: 0.85rem; color: var(--muted); margin: 0; }
+.select-pubs { margin-top: 28px; padding: 18px 22px; background: var(--soft); border-radius: 8px; border-left: 3px solid var(--red); }
+.select-pubs h3 { font-size: 1.05rem; margin-bottom: 0.5em; }
+.select-pubs ul { margin: 0; padding-left: 1.1em; }
+.select-pubs li { margin-bottom: 0.4em; font-size: 0.98rem; }
+.select-pubs .pub-meta { color: var(--muted); font-style: italic; }
 
 /* ---------- Group ---------- */
 .pi-card { display: grid; grid-template-columns: 260px 1fr; gap: 40px; align-items: start; margin-bottom: 56px; }
@@ -192,7 +192,7 @@ p { margin: 0 0 1em; }
 /* ---------- Responsive ---------- */
 @media (max-width: 900px) {
   .hero-grid, .theme-grid-detail, .pi-card { grid-template-columns: 1fr; }
-  .theme-grid, .highlights { grid-template-columns: 1fr; }
+  .theme-grid { grid-template-columns: 1fr; }
   .theme-card img { height: 220px; }
   .hero-grid { gap: 40px; }
   .pi-card img { max-width: 240px; }
