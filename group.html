@@ -29,7 +29,7 @@ description: Members of the Atterholt Group at the University of Arizona.
     </div>
   </section>
 
-  {% assign sections = "postdoc:Postdoctoral Researchers,grad:Graduate Students,undergrad:Undergraduate Researchers,staff:Staff" | split: "," %}
+  {% assign sections = "postdoc:Postdoctoral Researchers,grad:Graduate Students,undergrad:Undergraduate Researchers,staff:Staff,affiliate:Affiliated Students and Researchers" | split: "," %}
   {% for s in sections %}
     {% assign parts = s | split: ":" %}
     {% assign group = members | where: "role", parts[0] %}
@@ -46,8 +46,11 @@ description: Members of the Atterholt Group at the University of Arizona.
             {% assign names = person.name | split: " " %}
             <div class="placeholder" aria-hidden="true">{{ names.first | slice: 0 }}{{ names.last | slice: 0 }}</div>
           {% endif %}
+          <div>
           <h3>{{ person.name }}</h3>
+          {% if person.affiliation %}<p class="role">{{ person.affiliation }}</p>{% endif %}
           {% if person.bio %}<p>{{ person.bio }}</p>{% endif %}
+          {% if person.education %}<p class="person-edu">{% for e in person.education %}{{ e }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p>{% endif %}
           {% if person.email or person.website %}
           <p>
             {% if person.email %}<a href="mailto:{{ person.email }}">Email</a>{% endif %}
@@ -55,6 +58,7 @@ description: Members of the Atterholt Group at the University of Arizona.
             {% if person.website %}<a href="{{ person.website }}">Website</a>{% endif %}
           </p>
           {% endif %}
+          </div>
         </div>
         {% endfor %}
       </div>

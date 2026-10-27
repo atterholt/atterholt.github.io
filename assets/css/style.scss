@@ -142,15 +142,17 @@ p { margin: 0 0 1em; }
 .pi-card ul.cv { margin: 0; padding-left: 1.1em; font-size: 0.98rem; }
 .pi-card ul.cv li { margin-bottom: 0.2em; }
 .people-section { margin-bottom: 48px; }
-.people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 28px; }
-.person img { aspect-ratio: 1 / 1; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); margin-bottom: 12px; }
-.person h3 { font-size: 1.1rem; margin-bottom: 0.15em; }
+.people-grid { display: grid; grid-template-columns: 1fr; gap: 36px; }
+.person { display: grid; grid-template-columns: 200px 1fr; gap: 32px; align-items: start; max-width: 900px; }
+.person img { aspect-ratio: 1 / 1; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); }
+.person h3 { font-size: 1.3rem; margin-bottom: 0.15em; }
 .person .role { font-size: 0.92rem; font-weight: 600; color: var(--muted); margin-bottom: 0.4em; }
-.person p { font-size: 0.95rem; margin: 0; }
+.person p { font-size: 1rem; margin: 0 0 0.75em; }
+.person .person-edu { font-size: 0.92rem; color: var(--muted); }
 .person .placeholder {
   aspect-ratio: 1 / 1; border-radius: var(--radius); background: var(--soft); border: 1px solid var(--line);
   display: flex; align-items: center; justify-content: center; font-family: var(--serif);
-  font-size: 2.5rem; color: var(--navy); margin-bottom: 12px;
+  font-size: 2.5rem; color: var(--navy);
 }
 
 /* ---------- Publications ---------- */
@@ -183,6 +185,8 @@ p { margin: 0 0 1em; }
   .theme-grid, .highlights { grid-template-columns: 1fr; }
   .theme-card img { height: 220px; }
   .pi-card img { max-width: 240px; }
+  .person { grid-template-columns: 1fr; gap: 16px; }
+  .person img, .person .placeholder { max-width: 200px; }
 }
 @media (max-width: 720px) {
   body { font-size: 17px; }

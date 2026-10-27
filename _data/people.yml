@@ -2,7 +2,9 @@
 #
 # To add someone, copy the example under "members", remove the leading "# ",
 # and fill it in. Put their photo in assets/img/people/ (square crop works best).
-# role must be one of: postdoc, grad, undergrad, staff
+# role must be one of: postdoc, grad, undergrad, staff, affiliate
+#   (affiliate = students or researchers from other institutions working with the group)
+# "affiliation" shows under the name; "education" is an optional list.
 # If a photo is missing, the page shows their initials instead.
 # When someone leaves, move their entry to "alumni" and add "now:" (where they went).
 
@@ -28,8 +30,23 @@ pi:
     - Graduate Student Researcher, Caltech Seismological Laboratory (2019-2024)
 
 members:
+  - name: Nikhil Punithan
+    role: affiliate
+    affiliation: PhD Student, Colorado School of Mines
+    photo: /assets/img/people/nikhil-punithan.jpg
+    bio: >-
+      I am a 2nd year geophysics PhD student at the Colorado School of Mines. My research primarily
+      focuses on the use of distributed acoustic sensing (DAS) to monitor the near surface for
+      geologic hazards. I'm currently working on projects involving the rapid calculation of
+      surface-wave dispersion images from ambient seismic data for near real-time site
+      investigation. When I'm not working on my research, I enjoy hitting the gym, going on sunrise
+      hikes, and reading science fiction novels (I highly recommend Ancillary Justice by Ann Leckie).
+    education:
+      - BS Geophysics and Seismology, Texas A&M University (2023)
+
   # - name: First Last
   #   role: grad
+  #   affiliation: PhD Student, University of Arizona
   #   photo: /assets/img/people/first-last.jpg
   #   bio: One or two sentences on what they work on.
   #   email: name@arizona.edu
