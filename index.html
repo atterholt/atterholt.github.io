@@ -4,7 +4,8 @@ title: Home
 ---
 
 <section class="hero">
-  <div class="container hero-inner">
+  <div class="container hero-grid">
+    <div class="hero-text">
     <p class="eyebrow">{{ site.group.department }} &middot; {{ site.group.university }}</p>
     <h1>We use fiber-optic sensing to image the lithosphere, understand earthquakes, and assess geohazards.</h1>
     <p class="lead">
@@ -19,26 +20,20 @@ title: Home
       <a class="button primary" href="{{ '/research.html' | relative_url }}">Our research</a>
       <a class="button secondary" href="{{ '/group.html' | relative_url }}">Meet the group</a>
     </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container">
-    <div class="section-head">
-      <h2>Research themes</h2>
-      <a href="{{ '/research.html' | relative_url }}">All research &rarr;</a>
     </div>
-    <div class="theme-grid">
+    <aside class="hero-themes" aria-label="Research themes">
+      <p class="eyebrow">Research themes</p>
       {% for theme in site.data.themes %}{% unless theme.home == false %}
-      <a class="theme-card" href="{{ '/research.html' | relative_url }}#{{ theme.id }}">
-        <img src="{{ theme.image | relative_url }}" alt="" loading="lazy">
+      <a class="theme-tile" href="{{ '/research.html' | relative_url }}#{{ theme.id }}">
+        <img src="{{ theme.image | relative_url }}" alt="">
         <div>
           <h3>{{ theme.title }}</h3>
           <p>{{ theme.summary }}</p>
         </div>
       </a>
       {% endunless %}{% endfor %}
-    </div>
+      <a class="hero-themes-more" href="{{ '/research.html' | relative_url }}">All research &rarr;</a>
+    </aside>
   </div>
 </section>
 
