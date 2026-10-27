@@ -1,0 +1,171 @@
+# Research themes. Each theme appears as a card on the home page (unless home: false)
+# and as a full section on the Research page. Order here is the order on the site.
+#
+# Fields:
+#   id         anchor used in links (research.html#id)
+#   title      theme name
+#   summary    one sentence for the home page card
+#   image      figure for the theme (put new images in assets/img/web/)
+#   caption    figure caption
+#   intro      a paragraph or two (Markdown allowed)
+#   questions  open questions the group is working on
+#   highlights selected studies: title, text, cite, link
+
+- id: fault-zones
+  title: Fault Zone Structure
+  summary: How faults are built at depth, and how that structure controls where and how earthquakes rupture.
+  image: /assets/img/web/garlock.jpg
+  caption: Schematic of the Garlock Fault Zone summarizing what a fiber crossing the fault reveals about its structure at different depths.
+  intro: >-
+    Earthquakes happen inside fault zones, so the structure of these zones and the physics of
+    rupture are closely linked. Fault zones are narrow, and seismic resolution degrades with depth,
+    so their structure where large earthquakes nucleate is hard to see. Fiber-optic arrays that
+    cross faults record the wavefield every few meters for months to years. We use these dense
+    observations to resolve damage zones, velocity contrasts, and small faults that sparse
+    seismic networks miss.
+  questions:
+    - Do mature faults keep a damage zone at seismogenic depths, or do they heal?
+    - How common are sharp velocity contrasts across faults, and how do they steer ruptures?
+    - Where are the small, unmapped faults, and how do they connect to the large ones?
+  highlights:
+    - title: A healed fault with a hidden contrast
+      text: >-
+        A fiber crossing the Garlock Fault shows no extensive low-velocity zone at depth, which may
+        point to healing, and a sharp velocity contrast across the fault that could affect future ruptures.
+      cite: Atterholt et al. (2024), JGR Solid Earth
+      link: https://doi.org/10.1029/2024JB028900
+    - title: Finding small faults with scattered waves
+      text: >-
+        We backproject scattered surface waves in earthquake wavefields to locate small fault zones,
+        then use synthetic tests to constrain their dimensions.
+      cite: Atterholt et al. (2022), JGR Solid Earth
+      link: https://doi.org/10.1029/2022JB025052
+
+- id: earthquake-sources
+  title: Earthquake Source Physics
+  summary: How ruptures start, grow, and stop, measured with dense arrays and probabilistic source models.
+  image: /assets/img/web/mandalay.jpg
+  caption: Slip distribution of the 2025 Mw 7.7 Myanmar earthquake (Goldberg et al., 2025).
+  intro: >-
+    Earthquake ruptures are usually inferred from a limited number of stations far from the fault,
+    which leaves many source properties poorly constrained. We approach this from two directions.
+    Dense fiber arrays near the source let us image rupture directly. Low-dimensional Bayesian
+    methods give robust, probabilistic descriptions of ruptures that can be compared across many
+    earthquakes, so patterns in rupture behavior can be tied to fault structure and stress.
+  questions:
+    - What controls whether a rupture accelerates to supershear speed?
+    - How much can a compact array near the source tell us in the first seconds of an earthquake?
+    - How does stress in the crust unload and reload through an earthquake sequence?
+  highlights:
+    - title: Supershear rupture imaged with a fiber
+      text: >-
+        A fiber array imaged the 2024 Mw 7 Mendocino earthquake accelerating to supershear speed,
+        and the first seconds of the P wave resolved rupture direction and length.
+      cite: Atterholt et al. (2025), Science
+      link: https://doi.org/10.1126/science.adx6858
+    - title: An ultralong rupture in Myanmar
+      text: >-
+        With USGS colleagues, we showed the 2025 Myanmar earthquake was unusually long for its
+        magnitude, with much of the fault slipping at supershear speed.
+      cite: Goldberg et al. (2025), Science
+      link: https://doi.org/10.1126/science.ady3581
+    - title: Patterns in large strike-slip earthquakes
+      text: >-
+        Bayesian second-moment inversions of every large strike-slip earthquake from three decades
+        reveal patterns in directivity and in the rheology of oceanic faults.
+      cite: Atterholt and Ross (2023), GJI
+      link: https://doi.org/10.1093/gji/ggad459
+    - title: Fault orientations through a sequence
+      text: >-
+        A long-term seismicity and moment tensor catalog for the 2019 Ridgecrest sequence tracks how
+        fault orientations, and the stress field, change after the mainshock.
+      cite: Atterholt et al. (2025), GJI
+      link: https://doi.org/10.1093/gji/ggaf001
+
+- id: crustal-structure
+  title: Crust and Lithosphere Structure
+  summary: Fine-scale images of the crust, from shallow basins to the Moho, and what they mean for tectonics and shaking.
+  image: /assets/img/web/moho-pmp.jpg
+  caption: Moho-reflected PmP phases picked across hundreds of earthquakes recorded on a 100 km fiber in Southern California.
+  intro: >-
+    Dense fiber sampling resolves structure at scales that normally fall between seismic stations.
+    We use it to map sharp changes in the crust and upper mantle, from the shallow sediments that
+    amplify shaking down to the crust-mantle boundary and the subducting slab. These images inform
+    both how plates deform and how strongly the ground shakes in future earthquakes.
+  questions:
+    - How sharply does crustal thickness change across faults and volcanic fields?
+    - How do basin edges and near-surface structure amplify and scatter ground motion?
+    - What does fine-scale structure in subducting slabs tell us about their mechanics?
+  highlights:
+    - title: Sharp changes in Moho depth
+      text: >-
+        PmP reflections on a fiber between Ridgecrest and Barstow show abundant short-wavelength
+        changes in crustal thickness, with sharp steps across the Garlock Fault and Coso Volcanic Field.
+      cite: Atterholt and Zhan (2024), Science Advances
+      link: https://doi.org/10.1126/sciadv.adr3327
+    - title: What happens at the basin edge
+      text: >-
+        A detailed velocity model and unaliased earthquake wavefields show how basin edges amplify
+        ground motions and strains.
+      cite: Atterholt et al. (2026), GRL
+      link: https://doi.org/10.1029/2025GL119492
+    - title: Structure of the Gorda slab
+      text: >-
+        Fiber observations resolve sharp structural variability within the subducting Gorda slab
+        in southern Cascadia.
+      cite: Atterholt et al. (in press), Nature Communications
+      link:
+    - title: Shallow structure and ground motion
+      text: >-
+        Near-surface structure imaged with fiber near Ridgecrest varies over a few kilometers and
+        tracks the variability in earthquake ground motion.
+      cite: Yang et al. (2021), GRL
+      link: https://doi.org/10.1029/2021GL096503
+
+- id: monitoring
+  title: Volcanic and Environmental Monitoring
+  summary: Using existing telecom fiber to track magma, water, and other changes in the shallow Earth.
+  image: /assets/img/web/iceland.jpg
+  caption: Seismic velocity changes across four eruptions on the Reykjanes Peninsula, Iceland, measured on a 100 km telecom fiber.
+  intro: >-
+    Telecom fiber already runs through many of the places we want to watch. Because a fiber array
+    records continuously over tens of kilometers, small changes in seismic velocity and
+    low-frequency strain can be tracked through time. We use this to follow volcanic unrest, and
+    we are developing methods to sense environmental signals such as precipitation and
+    near-surface water.
+  questions:
+    - Can velocity changes measured on telecom fiber locate and size a dike as it opens?
+    - Which environmental signals does fiber record at low frequencies, and how do we separate them from earthquakes and traffic?
+  highlights:
+    - title: Tracking dike opening in Iceland
+      text: >-
+        Velocity changes measured across several eruptions constrain the location, length, and
+        depth of the dike through a Bayesian inversion.
+      cite: Bird et al. (2025), AGU Advances
+      link: https://doi.org/10.1029/2024AV001516
+
+- id: methods
+  title: Methods for Dense-Array Data
+  home: false
+  summary: Signal processing and inference tools that make dense fiber data usable for science.
+  image: /assets/img/web/curvelets.jpg
+  caption: Curvelets in the frequency-wavenumber and space-time domains, used to separate signal from noise in fiber data.
+  intro: >-
+    Fiber arrays produce large, noisy datasets with strengths and weaknesses that differ from
+    conventional seismometers. Much of our work builds the tools to use them well: wavefield
+    partitioning to remove instrument and traffic noise, array methods such as backprojection and
+    beamforming, and Bayesian inversions that report uncertainty along with the answer.
+  questions: []
+  highlights:
+    - title: Partitioning the wavefield with curvelets
+      text: >-
+        A curvelet framework separates earthquake signals from random and traffic noise, recovering
+        many earthquakes that were previously hidden.
+      cite: Atterholt et al. (2021), GJI
+      link: https://doi.org/10.1093/gji/ggab407
+    - title: Fiber sensing for earthquake hazards
+      text: >-
+        A community review of how fiber-optic sensing can support earthquake hazards research,
+        monitoring, and early warning.
+      cite: McGuire et al. (2025), SRL
+      link: https://doi.org/10.1785/0220250067

@@ -1,0 +1,76 @@
+---
+layout: default
+title: Group
+description: Members of the Fiber Tectonics Group at the University of Arizona.
+---
+{% assign pi = site.data.people.pi %}
+{% assign members = site.data.people.members %}
+
+<div class="container">
+  <header class="page-head">
+    <h1>Group</h1>
+  </header>
+
+  <section class="pi-card">
+    <img src="{{ pi.photo | relative_url }}" alt="Portrait of {{ pi.name }}">
+    <div>
+      <h2>{{ pi.name }}</h2>
+      <p class="role">{{ pi.title }}</p>
+      <ul class="pi-links">
+        <li><a href="mailto:{{ pi.email }}">Email</a></li>
+        <li><a href="{{ pi.cv | relative_url }}">CV</a></li>
+        <li><a href="{{ pi.linkedin }}">LinkedIn</a></li>
+      </ul>
+      {{ pi.bio | markdownify }}
+      <h3>Education</h3>
+      <ul class="cv">{% for e in pi.education %}<li>{{ e }}</li>{% endfor %}</ul>
+      <h3>Experience</h3>
+      <ul class="cv">{% for e in pi.experience %}<li>{{ e }}</li>{% endfor %}</ul>
+    </div>
+  </section>
+
+  {% assign sections = "postdoc:Postdoctoral Researchers,grad:Graduate Students,undergrad:Undergraduate Researchers,staff:Staff" | split: "," %}
+  {% for s in sections %}
+    {% assign parts = s | split: ":" %}
+    {% assign group = members | where: "role", parts[0] %}
+    {% assign n = group | size %}
+    {% if n > 0 %}
+    <section class="people-section">
+      <h2>{{ parts[1] }}</h2>
+      <div class="people-grid">
+        {% for person in group %}
+        <div class="person">
+          {% if person.photo %}
+            <img src="{{ person.photo | relative_url }}" alt="Portrait of {{ person.name }}" loading="lazy">
+          {% else %}
+            {% assign names = person.name | split: " " %}
+            <div class="placeholder" aria-hidden="true">{{ names.first | slice: 0 }}{{ names.last | slice: 0 }}</div>
+          {% endif %}
+          <h3>{{ person.name }}</h3>
+          {% if person.bio %}<p>{{ person.bio }}</p>{% endif %}
+          {% if person.email or person.website %}
+          <p>
+            {% if person.email %}<a href="mailto:{{ person.email }}">Email</a>{% endif %}
+            {% if person.email and person.website %} &middot; {% endif %}
+            {% if person.website %}<a href="{{ person.website }}">Website</a>{% endif %}
+          </p>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  {% endfor %}
+
+  {% assign n_alumni = site.data.people.alumni | size %}
+  {% if n_alumni > 0 %}
+  <section class="people-section">
+    <h2>Alumni</h2>
+    <ul>
+      {% for a in site.data.people.alumni %}
+      <li><strong>{{ a.name }}</strong>, {{ a.role }}{% if a.now %}. Now: {{ a.now }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</div>

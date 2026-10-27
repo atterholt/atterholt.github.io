@@ -1,0 +1,31 @@
+---
+layout: default
+title: Publications
+description: Publications from the Fiber Tectonics Group at the University of Arizona.
+---
+{% assign pubs = site.data.publications %}
+
+<div class="container">
+  <header class="page-head">
+    <h1>Publications</h1>
+    <p>Journal articles, newest first. The <a href="{{ site.data.people.pi.cv | relative_url }}">CV</a> also lists papers in review.</p>
+  </header>
+
+  {% for y in pubs.years %}
+  <h2 class="pub-year">{{ y.year }}</h2>
+  <ul class="pub-list">
+    {% for p in y.papers %}
+    {% assign authors = p.authors %}
+    {% for name in pubs.bold_names %}
+      {% capture bolded %}<strong>{{ name }}</strong>{% endcapture %}
+      {% assign authors = authors | replace: name, bolded %}
+    {% endfor %}
+    <li>
+      <span class="pub-title">{% if p.doi %}<a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</span>
+      <span class="pub-authors">{{ authors }}</span>
+      <span class="pub-venue">{{ p.venue }}</span>{% if y.year == "In press" %}<span class="pub-status">In press</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>

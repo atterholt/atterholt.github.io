@@ -1,0 +1,50 @@
+---
+layout: default
+title: Research
+description: Research themes of the Fiber Tectonics Group at the University of Arizona.
+---
+
+<div class="container">
+  <header class="page-head">
+    <h1>Research</h1>
+    <p>Our work is organized around a few connected themes. Each uses dense fiber-optic observations and careful inference to answer questions about how faults and the crust work.</p>
+  </header>
+
+  <ul class="theme-index">
+    {% for theme in site.data.themes %}
+    <li><a href="#{{ theme.id }}">{{ theme.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  {% for theme in site.data.themes %}
+  <section class="theme" id="{{ theme.id }}">
+    <h2>{{ theme.title }}</h2>
+    <div class="theme-grid-detail">
+      <div>
+        {{ theme.intro | markdownify }}
+        {% if theme.questions and theme.questions.size > 0 %}
+        <h3>Questions we are asking</h3>
+        <ul class="questions">
+          {% for q in theme.questions %}<li>{{ q }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+      <figure>
+        <img src="{{ theme.image | relative_url }}" alt="{{ theme.caption }}" loading="lazy">
+        <figcaption>{{ theme.caption }}</figcaption>
+      </figure>
+    </div>
+    {% if theme.highlights %}
+    <div class="highlights">
+      {% for h in theme.highlights %}
+      <div class="highlight">
+        <h4>{{ h.title }}</h4>
+        <p>{{ h.text }}</p>
+        <p class="cite">{% if h.link %}<a href="{{ h.link }}">{{ h.cite }}</a>{% else %}{{ h.cite }}{% endif %}</p>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </section>
+  {% endfor %}
+</div>

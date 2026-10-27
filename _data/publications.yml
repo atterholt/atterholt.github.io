@@ -1,0 +1,106 @@
+# Journal publications, newest first. Group by year; use "In press" for accepted papers.
+# Group members' names can be bolded on the page by adding them to bold_names below.
+
+bold_names:
+  - Atterholt, J.
+
+years:
+  - year: In press
+    papers:
+      - authors: Atterholt, J., McGuire, J.J., Barbour, A.J., Moschetti, M.P.
+        title: Sharp Structural Variability of the Gorda Slab Imaged by a Fiber Array
+        venue: Nature Communications
+
+  - year: "2026"
+    papers:
+      - authors: Atterholt, J., Barbour, A.J., McGuire, J.J., Moschetti, M.P.
+        title: Investigating Wavefield Complexity at the Basin Edge with Distributed Acoustic Sensing
+        venue: Geophysical Research Letters
+        doi: 10.1029/2025GL119492
+      - authors: Bird, E., Atterholt, J., Biondi, E., Yang, Y., Zhan, Z.
+        title: Imaging the North Bishop Block with Converted Phases Observed through Fiber-Optic Seismology
+        venue: Seismica
+        doi: 10.26443/seismica.v5i1.1175
+
+  - year: "2025"
+    papers:
+      - authors: McGuire, J.J., Barbour, A.J., Spica, Z.J., Rodríguez Tribaldos, V., Zhan, Z., Lipovsky, B.P., Mellors, R.J., Biondi, E., Yoon, C., Karrenbach, M., Ringler, A.T., Atterholt, J., Nayak, A., Sawi, T., Viens, L., Martin, E.R., Husker, A.L., Bodin, P., Moschetti, M.P., Shi, Q., Miller, N.C., Puri, P.
+        title: Fiber Optic Sensing for Earthquake Hazards Research, Monitoring and Early Warning
+        venue: Seismological Research Letters
+        doi: 10.1785/0220250067
+      - authors: Goldberg, D.E., Yeck, W.L., Hanagan, C., Atterholt, J., Kehoe, H.L., Reitman, N.G., Barnhardt, W.D., Shelly, D.R., Hatem, A.E., Wald, D., Earle, P.S.
+        title: Ultralong, Supershear Rupture of the 2025 Myanmar Earthquake Reveals Unaccounted Hazard
+        venue: Science
+        doi: 10.1126/science.ady3581
+      - authors: Skoumal, R.J., Atterholt, J., Barbour, A.J., Hardebeck, J.L.
+        title: S/P Amplitude Ratios with Distributed Acoustic Sensing and Application to Earthquake Focal Mechanisms
+        venue: Geophysical Research Letters
+        doi: 10.1029/2025GL116373
+      - authors: Atterholt, J., McGuire, J.J., Barbour, A.J., Stewart, C., Moschetti, M.P.
+        title: Fiber-Imaged Supershear Dynamics in the 2024 Mw7 Mendocino Fault Earthquake
+        venue: Science
+        doi: 10.1126/science.adx6858
+      - authors: Zhai, Q., Yin, J., Yang, Y., Atterholt, J., Li, J., Husker, A., Zhan, Z.
+        title: Comprehensive Evaluation of DAS Amplitude and Its Implications for Earthquake Early Warning and Ambient Noise Interferometry
+        venue: "Journal of Geophysical Research: Solid Earth"
+        doi: 10.1029/2024JB030288
+      - authors: Bird, E.J., Atterholt, J., Li, J., Biondi, E., Zhai, Q., Yang, Y., Fang, J., Wei, X., Hjörleifsdóttir, V., Klesh, A., Kamalov, V., Gunnarsson, T., Zhan, Z.
+        title: Constraining Dike Opening Models with Seismic Velocity Changes Associated with the 2023-2024 Eruption Sequence on the Reykjanes Peninsula
+        venue: AGU Advances
+        doi: 10.1029/2024AV001516
+      - authors: Atterholt, J., Wilding, J.D., Ross, Z.E.
+        title: The Evolution of Fault Orientation in the 2019 Ridgecrest Earthquake Sequence with a New Long-Term Catalog of Seismicity and Moment Tensors
+        venue: Geophysical Journal International
+        doi: 10.1093/gji/ggaf001
+
+  - year: "2024"
+    papers:
+      - authors: Atterholt, J., Zhan, Z.
+        title: Fine Scale Southern California Moho Structure Uncovered with Distributed Acoustic Sensing
+        venue: Science Advances
+        doi: 10.1126/sciadv.adr3327
+      - authors: Atterholt, J., Zhan, Z., Yang, Y., Zhu, W.
+        title: "Imaging the Garlock Fault Zone with a Fiber: A Missing Damage Zone and Hidden Bimaterial Contrast"
+        venue: "Journal of Geophysical Research: Solid Earth"
+        doi: 10.1029/2024JB028900
+      - authors: Guo, H., Atterholt, J., McGuire, J.J., Thurber, C.
+        title: Evidence for Low Effective Stress within the Crust of the Subducted Gorda Plate from the 2022 December Mw 6.4 Ferndale Earthquake Sequence
+        venue: Seismological Research Letters
+        doi: 10.1785/0220240078
+
+  - year: "2023"
+    papers:
+      - authors: Atterholt, J., Ross, Z.E.
+        title: Finite Source Properties of Large Strike-Slip Earthquakes
+        venue: Geophysical Journal International
+        doi: 10.1093/gji/ggad459
+
+  - year: "2022"
+    papers:
+      - authors: Atterholt, J., Zhan, Z., Yang, Y.
+        title: "Fault Zone Imaging with Distributed Acoustic Sensing: Body-to-Surface Wave Scattering"
+        venue: "Journal of Geophysical Research: Solid Earth"
+        doi: 10.1029/2022JB025052
+      - authors: Yang, Y., Zhan, Z., Shen, Z., Atterholt, J.
+        title: "Fault Zone Imaging with Distributed Acoustic Sensing: Surface-to-Surface Wave Scattering"
+        venue: "Journal of Geophysical Research: Solid Earth"
+        doi: 10.1029/2022JB024329
+      - authors: Atterholt, J., Ross, Z.E.
+        title: "Bayesian Framework for Inversion of Second-Order Stress Glut Moments: Application to the 2019 Ridgecrest Sequence Mainshock"
+        venue: "Journal of Geophysical Research: Solid Earth"
+        doi: 10.1029/2021JB023780
+
+  - year: "2021"
+    papers:
+      - authors: Atterholt, J., Zhan, Z., Shen, Z., Li, Z.
+        title: A Unified Wavefield Partitioning Approach for Distributed Acoustic Sensing
+        venue: Geophysical Journal International
+        doi: 10.1093/gji/ggab407
+      - authors: Yang, Y., Atterholt, J., Shen, Z., Muir, J.B., Williams, W.F., Zhan, Z.
+        title: Sub-Kilometer Correlation between Near-Surface Structure and Ground Motion Measured with Distributed Acoustic Sensing
+        venue: Geophysical Research Letters
+        doi: 10.1029/2021GL096503
+      - authors: Atterholt, J., Brownlee, S.J., Pavlis, G.L.
+        title: "Direct P-Wave Anisotropy Measurements at Homestake Mine: Implications for Wave Propagation in the Continental Crust"
+        venue: Geophysical Journal International
+        doi: 10.1093/gji/ggaa416

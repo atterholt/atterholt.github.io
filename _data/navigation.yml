@@ -1,0 +1,9 @@
+# Top navigation. Order here is the order on the site.
+- title: Research
+  url: /research.html
+- title: Group
+  url: /group.html
+- title: Publications
+  url: /publications.html
+- title: News
+  url: /outreach.html
