@@ -29,7 +29,7 @@ description: Members of the Atterholt Group at the University of Arizona.
     </div>
   </section>
 
-  {% assign sections = "postdoc:Postdoctoral Researchers,grad:Graduate Students,undergrad:Undergraduate Researchers,staff:Staff,affiliate:Affiliated Students and Researchers" | split: "," %}
+  {% assign sections = "postdoc:Postdoctoral Researchers,grad:Students,undergrad:Undergraduate Researchers,staff:Staff" | split: "," %}
   {% for s in sections %}
     {% assign parts = s | split: ":" %}
     {% assign group = members | where: "role", parts[0] %}

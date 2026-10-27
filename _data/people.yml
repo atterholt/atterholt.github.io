@@ -2,8 +2,7 @@
 #
 # To add someone, copy the example under "members", remove the leading "# ",
 # and fill it in. Put their photo in assets/img/people/ (square crop works best).
-# role must be one of: postdoc, grad, undergrad, staff, affiliate
-#   (affiliate = students or researchers from other institutions working with the group)
+# role must be one of: postdoc, grad, undergrad, staff
 # "affiliation" shows under the name; "education" is an optional list.
 # If a photo is missing, the page shows their initials instead.
 # When someone leaves, move their entry to "alumni" and add "now:" (where they went).
@@ -31,7 +30,7 @@ pi:
 
 members:
   - name: Nikhil Punithan
-    role: affiliate
+    role: grad
     affiliation: PhD Student, Colorado School of Mines
     photo: /assets/img/people/nikhil-punithan.jpg
     bio: >-
