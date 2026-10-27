@@ -1,6 +1,6 @@
 # atterholt.github.io
 
-Website for the Fiber Tectonics Group (Atterholt Group), Department of Geosciences, University of Arizona.
+Website for the Atterholt Group (Fiber Geophysics), Department of Geosciences, University of Arizona.
 
 Built with Jekyll and published by GitHub Pages from the `main` branch.
 
@@ -15,7 +15,7 @@ Most content lives in plain data files, so you rarely need to touch HTML:
 | Publications | `_data/publications.yml` |
 | News and outreach (first three show on the home page) | `_data/news.yml` |
 | Top navigation | `_data/navigation.yml` |
-| Group name, email, address | `_config.yml` |
+| Group name, tagline, email, address | `_config.yml` |
 | Styles | `assets/css/style.scss` |
 
 Web-sized images go in `assets/img/web/`; member photos in `assets/img/people/`.

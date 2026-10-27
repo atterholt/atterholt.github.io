@@ -1,12 +1,12 @@
-title: Fiber Tectonics Group
-description: The Atterholt Group at the University of Arizona uses fiber-optic sensing to study active faults, the crust, and geohazards.
+title: Atterholt Group
+description: The Atterholt Group at the University of Arizona uses fiber-optic sensing to image the lithosphere, study earthquake ruptures, and assess geohazards.
 url: https://atterholt.github.io
 lang: en-US
 
 # Group details used across the site
 group:
-  name: Fiber Tectonics
-  lab: Atterholt Group
+  name: Atterholt Group
+  tagline: Fiber Geophysics
   pi: Jimmy Atterholt
   email: atterholt@arizona.edu
   department: Department of Geosciences

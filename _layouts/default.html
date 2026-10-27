@@ -15,7 +15,7 @@
       <div class="container header-inner">
         <a class="brand" href="{{ '/' | relative_url }}">
           <span class="brand-name">{{ site.group.name }}</span>
-          <span class="brand-sub">{{ site.group.lab }} &middot; {{ site.group.university }}</span>
+          <span class="brand-sub">{{ site.group.tagline }} &bull; {{ site.group.university }}</span>
         </a>
         <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
         <label for="nav-toggle" class="nav-toggle-label" aria-hidden="true"><span></span></label>
@@ -34,7 +34,7 @@
     <footer class="site-footer">
       <div class="container footer-inner">
         <div>
-          <p class="footer-name">{{ site.group.name }} &middot; {{ site.group.lab }}</p>
+          <p class="footer-name">{{ site.group.name }} &middot; {{ site.group.tagline }}</p>
           <p>{{ site.group.department }}, {{ site.group.university }}<br>{{ site.group.address }}</p>
         </div>
         <div class="footer-contact">
