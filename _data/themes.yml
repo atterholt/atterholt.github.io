@@ -15,7 +15,7 @@
   title: Lithospheric Structure
   summary: Fine-scale images of fault zones, the Moho, and subducting slabs, and what they reveal about how plates deform.
   image: /assets/img/web/moho-pmp.jpg
-  caption: Moho-reflected PmP phases picked across hundreds of earthquakes recorded on a 100 km fiber in Southern California.
+  caption: Several hundred thousand Moho reflected phase (PmP) observations recorded by a fiber in Southern California.
   intro: >-
     Fiber arrays record the wavefield every few meters over tens of kilometers for months to years,
     which lets us find sharp structural changes, damage zones, and velocity contrasts that sparse
@@ -34,7 +34,7 @@
   title: Earthquake Ruptures
   summary: How ruptures start, grow, and stop, measured with dense arrays and probabilistic source models.
   image: /assets/img/web/mendocino.jpg
-  caption: Rupture of the 2024 Mw 7 Mendocino earthquake imaged with a fiber-optic array onshore (purple), showing the transition to supershear.
+  caption: Rupture of the 2024 Mw 7 Mendocino earthquake imaged with an onshore fiber-optic array (purple), showing the transition to supershear.
   intro: >-
     Earthquake ruptures are usually inferred from a limited number of stations far from the fault,
     which leaves many source properties poorly constrained. We approach this from two directions.
