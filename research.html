@@ -1,0 +1,49 @@
+---
+layout: default
+title: Research
+description: Research themes of the Atterholt Group at the University of Arizona.
+---
+
+<div class="container">
+  <header class="page-head">
+    <h1>Research</h1>
+    <p>Our work is organized around three connected themes: the structure of the lithosphere, the physics of earthquake ruptures, and the hazards created in the shallow Earth. Each uses dense fiber-optic observations and careful inference.</p>
+  </header>
+
+  <ul class="theme-index">
+    {% for theme in site.data.themes %}
+    <li><a href="#{{ theme.id }}">{{ theme.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  {% for theme in site.data.themes %}
+  <section class="theme" id="{{ theme.id }}">
+    <h2>{{ theme.title }}</h2>
+    <div class="theme-grid-detail">
+      <div>
+        {{ theme.intro | markdownify }}
+        {% if theme.questions and theme.questions.size > 0 %}
+        <h3>Key questions</h3>
+        <ul class="questions">
+          {% for q in theme.questions %}<li>{{ q }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+      <figure>
+        <img src="{{ theme.image | relative_url }}" alt="{{ theme.caption }}" loading="lazy">
+        <figcaption>{{ theme.caption }}</figcaption>
+      </figure>
+    </div>
+    {% if theme.select_publications %}
+    <div class="select-pubs">
+      <h3>Select publications</h3>
+      <ul>
+        {% for doi in theme.select_publications %}{% for y in site.data.publications.years %}{% for p in y.papers %}{% if p.doi == doi %}
+        <li><a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>. <span class="pub-meta">{{ p.venue }}, {{ y.year }}</span></li>
+        {% endif %}{% endfor %}{% endfor %}{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </section>
+  {% endfor %}
+</div>

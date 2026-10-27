@@ -1,0 +1,55 @@
+# People in the group. The Group page builds itself from this file.
+#
+# To add someone, copy the example under "members", remove the leading "# ",
+# and fill it in. Put their photo in assets/img/people/ (square crop works best).
+# role must be one of: postdoc, grad, undergrad, staff
+# "affiliation" shows under the name; "education" is an optional list.
+# If a photo is missing, the page shows their initials instead.
+# When someone leaves, move their entry to "alumni" and add "now:" (where they went).
+
+pi:
+  name: Jimmy Atterholt
+  title: Assistant Professor of Geophysics
+  photo: /assets/img/web/atterholt.jpg
+  email: atterholt@arizona.edu
+  cv: /assets/img/Atterholt_CV_2026.pdf
+  bio: >-
+    I'm an observational seismologist and Assistant Professor of Geophysics at the University of
+    Arizona. My research combines fiber-optic sensing with applied mathematics to study lithospheric
+    structure, earthquake dynamics, and geohazards. Day-to-day, my work involves looking at lots and
+    lots of wiggle plots. Before joining Arizona, I was a Mendenhall Postdoctoral Fellow at the U.S.
+    Geological Survey. Outside of research I can usually be found with my dog or working in my garden.
+  education:
+    - PhD Geophysics, California Institute of Technology (2024)
+    - BS Mathematics and BS Geological Sciences, Indiana University (2019)
+  positions:
+    - Assistant Professor, University of Arizona (2026-present)
+    - Mendenhall Postdoctoral Fellow, U.S. Geological Survey (2024-2026)
+
+members:
+  - name: Nikhil Punithan
+    role: grad
+    affiliation: PhD Student, Colorado School of Mines
+    photo: /assets/img/people/nikhil-punithan.jpg
+    bio: >-
+      I am a 2nd year geophysics PhD student at the Colorado School of Mines. My research primarily
+      focuses on the use of distributed acoustic sensing (DAS) to monitor the near surface for
+      geologic hazards. I'm currently working on projects involving the rapid calculation of
+      surface-wave dispersion images from ambient seismic data for near real-time site
+      investigation. When I'm not working on my research, I enjoy hitting the gym, going on sunrise
+      hikes, and reading science fiction novels (I highly recommend Ancillary Justice by Ann Leckie).
+    education:
+      - BS Geophysics and Seismology, Texas A&M University (2023)
+
+  # - name: First Last
+  #   role: grad
+  #   affiliation: PhD Student, University of Arizona
+  #   photo: /assets/img/people/first-last.jpg
+  #   bio: One or two sentences on what they work on.
+  #   email: name@arizona.edu
+  #   website: https://example.com
+
+alumni:
+  # - name: First Last
+  #   role: Postdoc (2027-2029)
+  #   now: Assistant Professor, Somewhere University

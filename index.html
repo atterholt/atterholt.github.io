@@ -1,0 +1,63 @@
+---
+layout: default
+title: Home
+---
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-text">
+    <h1>Fiber-optic sensing of our dynamic Earth</h1>
+    <p class="lead">
+      The {{ site.group.name }} at the {{ site.group.university }} turns telecommunication fibers into
+      ultra-dense seismic arrays. This yields coverage every few meters over tens to hundreds of
+      kilometers, providing resolution conventional seismic networks cannot. We combine these
+      datasets with techniques from applied mathematics to answer a host of questions. We get
+      high-resolution images of fault zones, Moho variability, and subducting slabs. We track
+      earthquake rupture propagation in fine detail. We measure how basins, volcanoes, and
+      precipitation shape geohazards.
+    </p>
+    <div class="actions">
+      <a class="button primary" href="{{ '/group.html' | relative_url }}">Meet the group</a>
+    </div>
+    </div>
+    <aside class="hero-themes" aria-label="Research themes">
+      <p class="eyebrow">Research themes</p>
+      {% for theme in site.data.themes %}{% unless theme.home == false %}
+      <a class="theme-tile" href="{{ '/research.html' | relative_url }}#{{ theme.id }}">
+        <img src="{{ theme.image | relative_url }}" alt="">
+        <div>
+          <h3>{{ theme.title }}</h3>
+          <p>{{ theme.summary }}</p>
+        </div>
+      </a>
+      {% endunless %}{% endfor %}
+      <a class="hero-themes-more" href="{{ '/research.html' | relative_url }}">All research &rarr;</a>
+    </aside>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <h2>Recent news</h2>
+      <a href="{{ '/outreach.html' | relative_url }}">All news &rarr;</a>
+    </div>
+    <ul class="news-list">
+      {% for item in site.data.news limit: 3 %}
+      <li>
+        <div class="news-date">{{ item.date }}</div>
+        <div>
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.summary }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="join-band">
+  <div class="container">
+    <p>Interested in joining the group? Prospective students and postdocs are welcome to email Jimmy at <a href="mailto:{{ site.group.email }}">{{ site.group.email }}</a>.</p>
+  </div>
+</section>

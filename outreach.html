@@ -1,0 +1,25 @@
+---
+layout: default
+title: News & Outreach
+description: News, press coverage, and outreach from the Atterholt Group.
+---
+
+<div class="container">
+  <header class="page-head">
+    <h1>News &amp; Outreach</h1>
+    <p>Press coverage, field work, and outreach from the group.</p>
+  </header>
+
+  {% for item in site.data.news %}
+  <article class="news-item">
+    <div class="news-date">{{ item.date }}</div>
+    <h2>{{ item.title }}</h2>
+    {{ item.body | markdownify }}
+    {% if item.video %}
+    <div class="video">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ item.video }}" title="{{ item.title }}" loading="lazy" allowfullscreen></iframe>
+    </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>

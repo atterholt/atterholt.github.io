@@ -1,8 +1,29 @@
-title: Jimmy Atterholt
-logo: /assets/img/CascadiaMargin.jpg
-description: Me and Bento at the Cascadia margin
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+title: Atterholt Group
+description: The Atterholt Group at the University of Arizona uses fiber-optic sensing to image the lithosphere, study earthquake ruptures, and assess geohazards.
+url: https://atterholt.github.io
+lang: en-US
+
+# Group details used across the site
+group:
+  name: Atterholt Group
+  tagline: Fiber Geophysics
+  pi: Jimmy Atterholt
+  email: atterholt@arizona.edu
+  department: Department of Geosciences
+  university: University of Arizona
+  address: Gould-Simpson Building, Tucson, Arizona
+
+markdown: kramdown
 plugins:
-  - jekyll-tabs
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-minimal.gemspec
+  - script
+  - docs
+  - README.md
+  - LICENSE
+  - thumbnail.png
+  - Basin_Figure_web.png

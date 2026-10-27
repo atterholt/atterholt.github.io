@@ -1,0 +1,62 @@
+# News and outreach, newest first. The first three appear on the home page.
+# Fields: date (display text), title, summary (one line for the home page),
+#         body (Markdown), video (YouTube ID, optional)
+
+- date: December 2025
+  title: Cal Poly Humboldt feature
+  summary: Cal Poly Humboldt campus news covered a major expansion of our fiber array in Humboldt County.
+  body: >-
+    Cal Poly Humboldt campus news recently joined us for a big expansion of our DAS array in
+    Humboldt County. We enlisted the help of Cal Poly geology students for the tap test used to
+    locate the channels. Lots of hammer swinging and head scratching; overall a successful day.
+    Learn more in the [article](https://now.humboldt.edu/news/fiber-optic-cables-could-revolutionize-early-earthquake-detection-video)
+    and the accompanying video.
+  video: NVWenlA3zlY
+
+- date: December 2025
+  title: Scientific American article
+  summary: Our fiber observations of the Mendocino earthquake were featured in Scientific American.
+  body: >-
+    Our work was recently featured in an
+    [article](https://www.scientificamerican.com/article/telecom-fiber-optic-cables-measured-an-earthquake-in-incredible-detail/)
+    in Scientific American. Brad Lipovsky and Zhongwen Zhan are quoted in the article.
+
+- date: September 2025
+  title: Mendocino earthquake paper in Science
+  summary: Our Science paper imaging the M7 Mendocino Fault earthquake with fiber was covered by national and Bay Area outlets.
+  body: >-
+    Our work imaging the M7 Mendocino Fault Earthquake, published in
+    [Science](https://doi.org/10.1126/science.adx6858), was featured in national and Bay Area
+    publications. Check out the coverage in
+    [NBC News](https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568),
+    [SFGate](https://www.sfgate.com/bayarea/article/usgs-study-21067213.php), and
+    [KQED](https://www.kqed.org/science/1998623/fiber-optic-cables-could-revolutionize-earthquake-detection-and-monitoring).
+
+- date: May 2025
+  title: New Scientist piece
+  summary: Our Moho imaging and early USGS fiber work appeared in a New Scientist feature on telecom fiber sensing.
+  body: >-
+    Our work at Caltech [imaging the Moho](https://doi.org/10.1126/sciadv.adr3327) and some of
+    our preliminary work at the USGS was featured in a popular science piece on fiber-optic sensing
+    with telecom fibers. Andreas Fichtner, Jonathan Ajo-Franklin, Andreas Wustefeld, Daniel Bowden,
+    and Rafael Mestre are some of the other scientists featured. Read it
+    [here](https://www.newscientist.com/article/2478861-how-buried-cables-are-revealing-earths-interior-in-incredible-detail/).
+
+- date: November 2024
+  title: Caltech News piece
+  summary: Caltech News covered our Science Advances paper on fine-scale Moho structure in Southern California.
+  body: >-
+    Our work imaging the Moho in Southern California, published in
+    [Science Advances](https://doi.org/10.1126/sciadv.adr3327), was summarized in
+    [an article in Caltech News](https://www.caltech.edu/about/news/new-technique-to-look-deep-within-tectonic-plates).
+
+- date: September 2022
+  title: The Earthquake Fellows Program
+  summary: Caltech's Earthquake Fellows program introduces local high school students to research through seismology.
+  body: >-
+    The Earthquake Fellows Program at Caltech is an outreach initiative that introduces local high
+    school students to scientific research through the lens of seismology. The goal of the program
+    is to give students from groups that are underrepresented in science an opportunity to see what
+    a career in science looks like. Jimmy helped shape the program's curriculum and objectives
+    during its first two years. [Learn more](https://www.caltech.edu/about/news/caltech-earthquake-fellows).
+  video: yyukfXZEOFI

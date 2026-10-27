@@ -1,0 +1,69 @@
+# Research themes. Each theme appears as a card on the home page (unless home: false)
+# and as a full section on the Research page. Order here is the order on the site.
+#
+# Fields:
+#   id         anchor used in links (research.html#id)
+#   title      theme name
+#   summary    one sentence for the home page card
+#   image      figure for the theme (put new images in assets/img/web/)
+#   caption    figure caption
+#   intro      a paragraph or two (Markdown allowed)
+#   questions  open questions the group is working on
+#   select_publications  DOIs of papers to list; title, journal, and year come from _data/publications.yml
+
+- id: lithospheric-structure
+  title: Lithospheric Structure
+  summary: Fine-scale images of fault zones, the Moho, and subducting slabs, and what they reveal about how plates deform.
+  image: /assets/img/web/moho-pmp.jpg
+  caption: Several hundred thousand Moho-reflected phase (PmP) observations recorded by a fiber in Southern California.
+  intro: >-
+    Fiber arrays record the wavefield every few meters over tens of kilometers for months to years,
+    which lets us find sharp structural changes, damage zones, and velocity contrasts that sparse
+    networks miss. These images constrain how plates deform and set the stage for how future
+    earthquakes will rupture. Our imaging targets the Cascadia Subduction Zone, the San Andreas
+    Fault, the Eastern California Shear Zone, and the Arizona Transition Zone.
+  questions:
+    - How is crustal structure modified by faults, magmatic systems, and tectonic regimes?
+    - How does the fine-scale structure of slabs modify megathrust mechanics?
+  select_publications:
+    - 10.1038/s41467-026-76002-8
+    - 10.1126/sciadv.adr3327
+    - 10.1029/2024JB028900
+
+- id: earthquake-sources
+  title: Earthquake Ruptures
+  summary: How ruptures start, grow, and stop, measured with dense arrays and probabilistic source models.
+  image: /assets/img/web/mendocino.jpg
+  caption: Rupture of the 2024 Mw 7 Mendocino earthquake imaged with an onshore fiber-optic array (purple), showing the transition to supershear.
+  intro: >-
+    Earthquake ruptures are usually inferred from a limited number of stations far from the fault,
+    which leaves many source properties poorly constrained. We approach this from two directions.
+    Dense fiber arrays near the source let us image rupture directly, at high resolution.
+    Low-dimensional, probabilistic source models let us compare ruptures across many earthquakes
+    and uncover patterns in rupture behavior.
+  questions:
+    - What is the relationship between fault structure and rupture dynamics?
+    - How much can a compact array near the source tell us in the first seconds of an earthquake?
+  select_publications:
+    - 10.1126/science.adx6858
+    - 10.1126/science.ady3581
+    - 10.1093/gji/ggad459
+
+- id: geohazards
+  title: Geohazards
+  summary: How basins and near-surface structure amplify shaking, and how fiber can monitor volcanoes and precipitation.
+  image: /assets/img/web/basin-edge.jpg
+  caption: Earthquake strain wavefield (top) and shallow shear-wave velocity structure (bottom) across a basin edge, recorded by a fiber-optic array.
+  intro: >-
+    Many hazards are controlled by structure and processes near the surface of the Earth, and can be
+    measured using nearby telecom fibers. Dense observations can record ground motion variability at
+    the scale of a city block, which is important for buildings and infrastructure. Because fiber
+    records continuously over tens of kilometers, it can also track changes through time, from magma
+    moving beneath a volcano to rainfall and near-surface water content.
+  questions:
+    - What controls ground motion amplification at the sub-kilometer scale?
+    - How can fibers densify our monitoring of hazardous hydrological processes?
+  select_publications:
+    - 10.1029/2025GL119492
+    - 10.1029/2024AV001516
+    - 10.1029/2022JB025052
