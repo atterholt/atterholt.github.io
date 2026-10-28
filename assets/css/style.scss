@@ -72,7 +72,7 @@ p { margin: 0 0 1em; }
 .hero-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: start; }
 .hero h1 { margin-bottom: 0.5em; font-size: clamp(1.75rem, 2.8vw, 2.15rem); }
 .hero .lead { font-size: 1.2rem; color: var(--ink); }
-.hero .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 32px; }
+.hero .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px; }
 .button {
   display: inline-block; padding: 10px 18px; border-radius: 6px; font-weight: 600; font-size: 1rem;
   text-decoration: none; border: 2px solid var(--navy);
@@ -93,7 +93,8 @@ p { margin: 0 0 1em; }
 .theme-tile img { width: 132px; height: 96px; object-fit: contain; border-radius: 6px; border: 1px solid var(--line); background: var(--white); padding: 3px; }
 .theme-tile h3 { font-size: 1.1rem; margin-bottom: 0.2em; }
 .theme-tile p { margin: 0; font-size: 0.92rem; line-height: 1.45; color: var(--muted); }
-.hero-themes-more { align-self: flex-end; font-weight: 600; font-size: 0.95rem; }
+.hero-themes-more, .text-link { font-weight: 600; font-size: 0.95rem; }
+.hero-themes-more { align-self: flex-end; }
 .section { padding: 56px 0; }
 .section + .section { padding-top: 8px; }
 .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 24px; }
